@@ -1,0 +1,351 @@
+[2025-03-27T14:27:17.358-0500] {processor.py:186} INFO - Started process (PID=1763687) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:27:17.359-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:27:17.360-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:17.360-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:27:17.364-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:27:17.640-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:17.640-0500] {override.py:1912} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2025-03-27T14:27:17.760-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:17.760-0500] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2025-03-27T14:27:17.844-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:17.844-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2025-03-27T14:27:18.276-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.276-0500] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_trigger_target_dag
+[2025-03-27T14:27:18.401-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.401-0500] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_trigger_target_dag
+[2025-03-27T14:27:18.834-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.834-0500] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_trigger_target_dag
+[2025-03-27T14:27:18.957-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.957-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_trigger_target_dag
+[2025-03-27T14:27:18.957-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.957-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:27:18.963-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.962-0500] {dag.py:3262} INFO - Creating ORM DAG for example_trigger_target_dag
+[2025-03-27T14:27:18.963-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:27:18.963-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:27:19.094-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 1.738 seconds
+[2025-03-27T14:28:53.437-0500] {processor.py:186} INFO - Started process (PID=1764652) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:28:53.438-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:28:53.439-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:53.439-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:28:53.444-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:28:53.451-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:53.451-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:28:53.457-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:53.456-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:28:53.737-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.303 seconds
+[2025-03-27T14:36:01.763-0500] {processor.py:186} INFO - Started process (PID=1768767) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:36:01.764-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:36:01.765-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:36:01.765-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:36:01.769-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:36:01.776-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:36:01.776-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:36:01.781-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:36:01.781-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:36:01.917-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.156 seconds
+[2025-03-27T14:37:48.670-0500] {processor.py:186} INFO - Started process (PID=1770041) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:37:48.670-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:37:48.672-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:48.671-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:37:48.677-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:37:48.739-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:48.739-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:37:48.743-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:48.743-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:37:48.877-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.210 seconds
+[2025-03-27T14:39:04.211-0500] {processor.py:186} INFO - Started process (PID=1770943) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:39:04.212-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:39:04.213-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:39:04.213-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:39:04.217-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:39:04.223-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:39:04.223-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:39:04.229-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:39:04.229-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:39:05.100-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.891 seconds
+[2025-03-27T14:40:31.437-0500] {processor.py:186} INFO - Started process (PID=1771713) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:40:31.437-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:40:31.439-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:31.438-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:40:31.442-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:40:31.449-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:31.449-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:40:31.454-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:31.454-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:40:31.631-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.197 seconds
+[2025-03-27T14:42:01.130-0500] {processor.py:186} INFO - Started process (PID=1772962) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:42:01.130-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:42:01.131-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:01.131-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:42:01.135-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:42:01.142-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:01.142-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:42:01.147-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:01.147-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:42:01.276-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.149 seconds
+[2025-03-27T14:43:08.085-0500] {processor.py:186} INFO - Started process (PID=1773593) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:43:08.085-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:43:08.087-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:43:08.087-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:43:08.091-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:43:08.098-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:43:08.098-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:43:08.103-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:43:08.103-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:43:08.279-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.197 seconds
+[2025-03-27T14:44:37.487-0500] {processor.py:186} INFO - Started process (PID=1774622) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:44:37.487-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:44:37.488-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:37.488-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:44:37.492-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:44:37.499-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:37.499-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:44:37.504-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:37.504-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:44:38.239-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.755 seconds
+[2025-03-27T14:45:56.747-0500] {processor.py:186} INFO - Started process (PID=1775460) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:45:56.747-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:45:56.748-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:56.748-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:45:56.752-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:45:56.759-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:56.759-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:45:56.764-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:56.764-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:45:57.709-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.965 seconds
+[2025-03-27T14:47:25.460-0500] {processor.py:186} INFO - Started process (PID=1776235) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:47:25.460-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:47:25.461-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:47:25.461-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:47:25.465-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:47:25.472-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:47:25.472-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:47:25.477-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:47:25.477-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:47:25.680-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.223 seconds
+[2025-03-27T14:48:44.408-0500] {processor.py:186} INFO - Started process (PID=1777051) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:48:44.409-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:48:44.410-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:44.409-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:48:44.414-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:48:44.420-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:44.420-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:48:44.426-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:44.426-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:48:44.615-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.209 seconds
+[2025-03-27T14:50:15.971-0500] {processor.py:186} INFO - Started process (PID=1777839) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:50:15.972-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:50:15.973-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:15.973-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:50:15.977-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:50:15.984-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:15.984-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:50:15.989-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:15.989-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:50:16.122-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-27T14:51:22.249-0500] {processor.py:186} INFO - Started process (PID=1783365) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:51:22.250-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:51:22.251-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:51:22.250-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:51:22.255-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:51:22.262-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:51:22.262-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:51:22.267-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:51:22.267-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:51:22.399-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T14:52:28.707-0500] {processor.py:186} INFO - Started process (PID=1784036) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:52:28.708-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:52:28.709-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:28.709-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:52:28.713-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:52:28.720-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:28.720-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:52:28.725-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:28.725-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:52:28.858-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T14:53:40.273-0500] {processor.py:186} INFO - Started process (PID=1784764) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:53:40.273-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:53:40.274-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:40.274-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:53:40.278-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:53:40.285-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:40.285-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:53:40.291-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:40.291-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:53:40.423-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T14:54:47.039-0500] {processor.py:186} INFO - Started process (PID=1785462) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:54:47.039-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:54:47.040-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:47.040-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:54:47.045-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:54:47.052-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:47.051-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:54:47.057-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:47.057-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:54:47.190-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-27T14:55:52.527-0500] {processor.py:186} INFO - Started process (PID=1786158) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:55:52.528-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:55:52.529-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:52.528-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:55:52.533-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:55:52.540-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:52.540-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:55:52.545-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:52.545-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:55:53.189-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.665 seconds
+[2025-03-27T14:57:11.631-0500] {processor.py:186} INFO - Started process (PID=1786903) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:57:11.631-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:57:11.632-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:11.632-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:57:11.637-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:57:11.644-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:11.644-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:57:11.649-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:11.649-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:57:11.855-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.227 seconds
+[2025-03-27T14:58:30.532-0500] {processor.py:186} INFO - Started process (PID=1787679) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:58:30.532-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T14:58:30.533-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:58:30.533-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:58:30.538-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T14:58:30.545-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:58:30.544-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:58:30.550-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:58:30.550-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T14:58:30.759-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.230 seconds
+[2025-03-27T15:00:05.352-0500] {processor.py:186} INFO - Started process (PID=1788691) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:00:05.353-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:00:05.353-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:05.353-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:00:05.358-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:00:05.365-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:05.365-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:00:05.371-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:05.370-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:00:05.506-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.157 seconds
+[2025-03-27T15:01:12.243-0500] {processor.py:186} INFO - Started process (PID=1789535) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:01:12.243-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:01:12.244-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:12.244-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:01:12.249-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:01:12.256-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:12.256-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:01:12.261-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:12.261-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:01:12.395-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.155 seconds
+[2025-03-27T15:02:15.905-0500] {processor.py:186} INFO - Started process (PID=1790237) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:02:15.906-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:02:15.907-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:02:15.906-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:02:15.911-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:02:15.918-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:02:15.918-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:02:15.923-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:02:15.923-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:02:16.055-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T15:03:34.469-0500] {processor.py:186} INFO - Started process (PID=1791002) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:03:34.470-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:03:34.471-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:34.471-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:03:34.476-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:03:34.483-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:34.482-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:03:34.488-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:34.488-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:03:34.628-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.162 seconds
+[2025-03-27T15:04:47.577-0500] {processor.py:186} INFO - Started process (PID=1791811) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:04:47.577-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:04:47.578-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:47.578-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:04:47.583-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:04:47.590-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:47.590-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:04:47.595-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:47.595-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:04:47.859-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.285 seconds
+[2025-03-27T15:06:09.680-0500] {processor.py:186} INFO - Started process (PID=1792497) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:06:09.680-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:06:09.681-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:06:09.681-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:06:09.685-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:06:09.692-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:06:09.692-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:06:09.697-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:06:09.697-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:06:10.043-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.366 seconds
+[2025-03-27T15:07:36.136-0500] {processor.py:186} INFO - Started process (PID=1793415) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:07:36.136-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:07:36.137-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:36.137-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:07:36.141-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:07:36.148-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:36.148-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:07:36.153-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:36.153-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:07:36.286-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T15:08:39.801-0500] {processor.py:186} INFO - Started process (PID=1794086) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:08:39.801-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:08:39.802-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:39.802-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:08:39.806-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:08:39.813-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:39.813-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:08:39.818-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:39.818-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:08:39.950-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.152 seconds
+[2025-03-27T15:09:49.211-0500] {processor.py:186} INFO - Started process (PID=1794779) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:09:49.212-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:09:49.213-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:49.213-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:09:49.217-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:09:49.224-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:49.224-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:09:49.229-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:49.229-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:09:49.442-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.234 seconds
+[2025-03-27T15:10:58.341-0500] {processor.py:186} INFO - Started process (PID=1795439) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:10:58.341-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:10:58.342-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:58.342-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:10:58.346-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:10:58.353-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:58.353-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:10:58.358-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:58.358-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:10:58.490-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.152 seconds
+[2025-03-27T15:12:03.983-0500] {processor.py:186} INFO - Started process (PID=1797638) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:12:03.983-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:12:03.984-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:03.984-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:12:03.988-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:12:03.995-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:03.995-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:12:04.001-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:04.000-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:12:04.201-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.221 seconds
+[2025-03-27T15:13:23.578-0500] {processor.py:186} INFO - Started process (PID=1798389) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:13:23.579-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:13:23.580-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:13:23.580-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:13:23.584-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:13:23.591-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:13:23.591-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:13:23.596-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:13:23.596-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:13:23.785-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.209 seconds
+[2025-03-27T15:14:39.246-0500] {processor.py:186} INFO - Started process (PID=1799181) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:14:39.247-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:14:39.248-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:39.247-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:14:39.252-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:14:39.259-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:39.259-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:14:39.264-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:39.264-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:14:39.479-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.236 seconds
+[2025-03-27T15:15:56.411-0500] {processor.py:186} INFO - Started process (PID=1799996) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:15:56.411-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:15:56.412-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:56.412-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:15:56.416-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:15:56.423-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:56.423-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:15:56.428-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:56.428-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:15:56.825-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.417 seconds
+[2025-03-27T15:17:16.826-0500] {processor.py:186} INFO - Started process (PID=1800729) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:17:16.827-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:17:16.828-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:16.828-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:17:16.832-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:17:16.839-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:16.839-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:17:16.844-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:16.844-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:17:17.030-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.206 seconds
+[2025-03-27T15:18:22.950-0500] {processor.py:186} INFO - Started process (PID=1801376) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:18:22.950-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:18:22.951-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:18:22.951-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:18:22.955-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:18:22.962-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:18:22.962-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:18:22.967-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:18:22.967-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:18:23.100-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T15:19:33.448-0500] {processor.py:186} INFO - Started process (PID=1802076) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:19:33.448-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:19:33.449-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:33.449-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:19:33.453-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:19:33.460-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:33.460-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:19:33.466-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:33.466-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:19:33.598-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T15:20:38.599-0500] {processor.py:186} INFO - Started process (PID=1803516) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:20:38.600-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:20:38.601-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:38.601-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:20:38.605-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:20:38.613-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:38.613-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:20:38.618-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:38.618-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:20:38.750-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-27T15:21:49.605-0500] {processor.py:186} INFO - Started process (PID=1808361) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:21:49.606-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:21:49.607-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:49.606-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:21:49.611-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:21:49.618-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:49.618-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:21:49.623-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:49.623-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:21:49.756-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-27T15:23:09.735-0500] {processor.py:186} INFO - Started process (PID=1809073) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:23:09.735-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:23:09.736-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:09.736-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:23:09.740-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:23:09.748-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:09.748-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:23:09.753-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:09.753-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:23:09.911-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.179 seconds
+[2025-03-27T15:24:17.662-0500] {processor.py:186} INFO - Started process (PID=1809850) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:24:17.662-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:24:17.663-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:24:17.663-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:24:17.667-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:24:17.674-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:24:17.674-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:24:17.680-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:24:17.679-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:24:17.854-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.195 seconds
+[2025-03-27T15:25:37.228-0500] {processor.py:186} INFO - Started process (PID=1810674) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:25:37.228-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:25:37.229-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:37.229-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:25:37.234-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:25:37.241-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:37.240-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:25:37.246-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:37.246-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:25:37.627-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.402 seconds
+[2025-03-27T15:27:11.030-0500] {processor.py:186} INFO - Started process (PID=1811537) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:27:11.031-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:27:11.032-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:11.032-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:27:11.036-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:27:11.043-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:11.043-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:27:11.048-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:11.048-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:27:11.181-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.154 seconds
+[2025-03-27T15:28:27.981-0500] {processor.py:186} INFO - Started process (PID=1812249) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:28:27.982-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:28:27.983-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:28:27.983-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:28:27.987-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:28:27.995-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:28:27.994-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:28:28.000-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:28:28.000-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:28:28.872-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.894 seconds
+[2025-03-27T15:30:15.895-0500] {processor.py:186} INFO - Started process (PID=1813284) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:30:15.896-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:30:15.897-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:30:15.897-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:30:15.902-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:30:15.909-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:30:15.909-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:30:15.914-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:30:15.914-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:30:16.537-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.644 seconds
+[2025-03-27T15:32:08.252-0500] {processor.py:186} INFO - Started process (PID=1814339) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:32:08.252-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:32:08.253-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:08.253-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:32:08.257-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:32:08.264-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:08.264-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:32:08.270-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:08.270-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:32:08.408-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.159 seconds
+[2025-03-27T15:33:20.046-0500] {processor.py:186} INFO - Started process (PID=1814999) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:33:20.047-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:33:20.048-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:20.047-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:33:20.052-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:33:20.059-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:20.058-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:33:20.064-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:20.064-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:33:20.237-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.194 seconds
+[2025-03-27T15:34:26.453-0500] {processor.py:186} INFO - Started process (PID=1815664) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:34:26.453-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:34:26.454-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:34:26.454-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:34:26.458-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:34:26.465-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:34:26.465-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:34:26.470-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:34:26.470-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:34:26.603-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.153 seconds
+[2025-03-27T15:35:34.352-0500] {processor.py:186} INFO - Started process (PID=1816320) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:35:34.352-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2025-03-27T15:35:34.354-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:34.353-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:35:34.358-0500] {processor.py:925} INFO - DAG(s) 'example_trigger_target_dag' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2025-03-27T15:35:34.365-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:34.365-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:35:34.370-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:34.370-0500] {dag.py:4180} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2025-03-27T15:35:34.530-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.181 seconds

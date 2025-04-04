@@ -1,0 +1,1225 @@
+[2025-03-31T12:40:14.927-0500] {processor.py:186} INFO - Started process (PID=398385) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:14.928-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:40:14.929-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:14.928-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:14.972-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:15.187-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:15.187-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:40:15.196-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:15.196-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-30 00:00:00+00:00, run_after=2025-03-31 00:00:00+00:00
+[2025-03-31T12:40:15.346-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.421 seconds
+[2025-03-31T12:40:46.066-0500] {processor.py:186} INFO - Started process (PID=398966) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:46.066-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:40:46.067-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:46.067-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:46.076-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:40:46.088-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:46.087-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:40:46.098-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:40:46.097-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:40:46.231-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.168 seconds
+[2025-03-31T12:41:17.153-0500] {processor.py:186} INFO - Started process (PID=399167) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:17.153-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:41:17.154-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:17.154-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:17.160-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:17.169-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:17.169-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:41:17.179-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:17.179-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:41:17.318-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.168 seconds
+[2025-03-31T12:41:47.508-0500] {processor.py:186} INFO - Started process (PID=399728) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:47.509-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:41:47.510-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:47.510-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:47.519-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:41:47.650-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:47.650-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:41:47.659-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:41:47.659-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:41:47.790-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.285 seconds
+[2025-03-31T12:42:18.451-0500] {processor.py:186} INFO - Started process (PID=399876) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:18.452-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:42:18.453-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:18.452-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:18.458-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:18.468-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:18.467-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:42:18.477-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:18.477-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:42:18.624-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.175 seconds
+[2025-03-31T12:42:49.483-0500] {processor.py:186} INFO - Started process (PID=400228) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:49.483-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:42:49.484-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:49.484-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:49.490-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:42:49.499-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:49.499-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:42:49.509-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:42:49.509-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:42:50.500-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.020 seconds
+[2025-03-31T12:43:21.592-0500] {processor.py:186} INFO - Started process (PID=400430) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:21.598-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:43:21.599-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:21.599-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:21.703-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:21.767-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:21.767-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:43:21.776-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:21.776-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:43:21.989-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.404 seconds
+[2025-03-31T12:43:52.786-0500] {processor.py:186} INFO - Started process (PID=400794) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:52.787-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:43:52.788-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:52.787-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:52.793-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:43:52.803-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:52.802-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:43:52.812-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:43:52.812-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:43:52.998-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.215 seconds
+[2025-03-31T12:44:24.184-0500] {processor.py:186} INFO - Started process (PID=401034) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:24.185-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:44:24.186-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:24.186-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:24.191-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:24.200-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:24.200-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:44:24.210-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:24.210-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:44:24.382-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.200 seconds
+[2025-03-31T12:44:55.469-0500] {processor.py:186} INFO - Started process (PID=401318) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:55.470-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:44:55.471-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:55.470-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:55.476-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:44:55.485-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:55.485-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:44:55.495-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:44:55.495-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:44:55.701-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.234 seconds
+[2025-03-31T12:45:26.109-0500] {processor.py:186} INFO - Started process (PID=401441) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:26.110-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:45:26.111-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:26.110-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:26.116-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:26.126-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:26.126-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:45:26.136-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:26.136-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:45:26.415-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.309 seconds
+[2025-03-31T12:45:56.580-0500] {processor.py:186} INFO - Started process (PID=401708) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:56.580-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:45:56.581-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:56.581-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:56.587-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:45:56.596-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:56.596-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:45:56.606-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:45:56.605-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:45:57.293-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.715 seconds
+[2025-03-31T12:46:28.514-0500] {processor.py:186} INFO - Started process (PID=401867) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:28.514-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:46:28.515-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:28.515-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:28.521-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:28.530-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:28.530-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:46:28.539-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:28.539-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:46:28.854-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.342 seconds
+[2025-03-31T12:46:59.775-0500] {processor.py:186} INFO - Started process (PID=402146) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:59.775-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:46:59.776-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:59.776-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:59.782-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:46:59.791-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:59.791-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:46:59.800-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:46:59.800-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:46:59.971-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.199 seconds
+[2025-03-31T12:47:30.741-0500] {processor.py:186} INFO - Started process (PID=402283) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:47:30.742-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:47:30.743-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:47:30.743-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:47:30.748-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:47:30.758-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:47:30.758-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:47:30.767-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:47:30.767-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:47:30.902-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T12:48:00.990-0500] {processor.py:186} INFO - Started process (PID=402520) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:00.990-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:48:00.991-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:00.991-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:00.997-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:01.006-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:01.006-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:48:01.015-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:01.015-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:48:01.148-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T12:48:31.626-0500] {processor.py:186} INFO - Started process (PID=402659) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:31.627-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:48:31.628-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:31.628-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:31.633-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:48:31.642-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:31.642-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:48:31.652-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:48:31.652-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:48:31.786-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T12:49:01.874-0500] {processor.py:186} INFO - Started process (PID=402995) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:01.874-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:49:01.875-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:01.875-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:01.881-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:01.890-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:01.890-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:49:01.900-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:01.900-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:49:02.034-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T12:49:32.431-0500] {processor.py:186} INFO - Started process (PID=403232) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:32.432-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:49:32.433-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:32.432-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:32.438-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:49:32.447-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:32.447-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:49:32.457-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:49:32.457-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:49:32.592-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T12:50:02.679-0500] {processor.py:186} INFO - Started process (PID=403575) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:02.679-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:50:02.680-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:02.680-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:02.685-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:02.695-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:02.695-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:50:02.705-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:02.704-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:50:02.838-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T12:50:36.189-0500] {processor.py:186} INFO - Started process (PID=403829) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:36.189-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:50:36.191-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:36.191-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:36.196-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:50:36.206-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:36.206-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:50:36.215-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:50:36.215-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:50:36.357-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.171 seconds
+[2025-03-31T12:51:07.233-0500] {processor.py:186} INFO - Started process (PID=404086) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:07.233-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:51:07.234-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:07.234-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:07.239-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:07.249-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:07.249-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:51:07.258-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:07.258-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:51:07.530-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.300 seconds
+[2025-03-31T12:51:37.636-0500] {processor.py:186} INFO - Started process (PID=405131) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:37.637-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:51:37.638-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:37.638-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:37.643-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:51:37.652-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:37.652-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:51:37.662-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:51:37.662-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:51:37.894-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.260 seconds
+[2025-03-31T12:52:08.365-0500] {processor.py:186} INFO - Started process (PID=406479) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:08.366-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:52:08.367-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:08.367-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:08.372-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:08.382-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:08.382-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:52:08.392-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:08.392-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:52:08.532-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.169 seconds
+[2025-03-31T12:52:39.431-0500] {processor.py:186} INFO - Started process (PID=409707) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:39.431-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:52:39.432-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:39.432-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:39.438-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:52:39.447-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:39.447-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:52:39.456-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:52:39.456-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:52:39.592-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.165 seconds
+[2025-03-31T12:53:10.496-0500] {processor.py:186} INFO - Started process (PID=409901) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:10.496-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:53:10.497-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:10.497-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:10.503-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:10.512-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:10.512-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:53:10.521-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:10.521-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:53:10.667-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.175 seconds
+[2025-03-31T12:53:40.843-0500] {processor.py:186} INFO - Started process (PID=410167) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:40.843-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:53:40.844-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:40.844-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:40.850-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:53:40.859-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:40.859-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:53:40.869-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:53:40.869-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:53:41.055-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.215 seconds
+[2025-03-31T12:54:11.936-0500] {processor.py:186} INFO - Started process (PID=410324) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:11.937-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:54:11.938-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:11.937-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:11.943-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:11.953-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:11.952-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:54:12.014-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:12.014-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:54:12.146-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.212 seconds
+[2025-03-31T12:54:43.005-0500] {processor.py:186} INFO - Started process (PID=410585) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:43.006-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:54:43.007-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:43.007-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:43.028-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:54:43.050-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:43.050-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:54:43.110-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:54:43.110-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:54:43.248-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.250 seconds
+[2025-03-31T12:55:13.435-0500] {processor.py:186} INFO - Started process (PID=411094) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:13.436-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:55:13.437-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:13.437-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:13.455-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:13.475-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:13.475-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:55:13.535-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:13.535-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:55:13.673-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.244 seconds
+[2025-03-31T12:55:44.307-0500] {processor.py:186} INFO - Started process (PID=411431) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:44.309-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:55:44.310-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:44.309-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:44.383-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:55:44.402-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:44.402-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:55:44.410-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:55:44.410-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:55:44.543-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.241 seconds
+[2025-03-31T12:56:14.898-0500] {processor.py:186} INFO - Started process (PID=411554) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:14.908-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:56:14.909-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:14.909-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:15.066-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:15.196-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:15.196-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:56:15.205-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:15.205-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:56:15.458-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.597 seconds
+[2025-03-31T12:56:45.857-0500] {processor.py:186} INFO - Started process (PID=411858) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:45.865-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:56:45.867-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:45.866-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:45.976-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:56:46.070-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:46.070-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:56:46.080-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:56:46.080-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:56:46.214-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.386 seconds
+[2025-03-31T12:57:16.390-0500] {processor.py:186} INFO - Started process (PID=411966) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:16.391-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:57:16.392-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:16.392-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:16.398-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:16.407-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:16.407-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:57:16.417-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:16.417-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:57:17.396-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.008 seconds
+[2025-03-31T12:57:47.562-0500] {processor.py:186} INFO - Started process (PID=412251) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:47.563-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:57:47.564-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:47.563-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:47.569-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:57:47.579-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:47.579-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:57:47.589-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:57:47.588-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:57:47.732-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.172 seconds
+[2025-03-31T12:58:18.605-0500] {processor.py:186} INFO - Started process (PID=412359) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:18.607-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:58:18.608-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:18.607-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:18.624-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:18.642-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:18.642-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:58:18.652-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:18.652-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:58:18.790-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.192 seconds
+[2025-03-31T12:58:48.979-0500] {processor.py:186} INFO - Started process (PID=412665) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:48.979-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:58:48.980-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:48.980-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:48.986-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:58:48.995-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:48.995-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:58:49.005-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:58:49.005-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:58:49.138-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T12:59:25.642-0500] {processor.py:186} INFO - Started process (PID=413126) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:25.642-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:59:25.643-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:25.643-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:25.651-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:25.660-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:25.660-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:59:25.670-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:25.669-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:59:25.803-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T12:59:56.711-0500] {processor.py:186} INFO - Started process (PID=413423) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:56.711-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T12:59:56.712-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:56.712-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:56.718-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T12:59:56.728-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:56.727-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T12:59:56.737-0500] {logging_mixin.py:190} INFO - [2025-03-31T12:59:56.737-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T12:59:56.874-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.166 seconds
+[2025-03-31T13:00:26.958-0500] {processor.py:186} INFO - Started process (PID=413674) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:26.958-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:00:26.959-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:26.959-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:26.965-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:26.974-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:26.974-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:00:26.984-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:26.984-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:00:27.130-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.175 seconds
+[2025-03-31T13:00:57.206-0500] {processor.py:186} INFO - Started process (PID=414063) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:57.206-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:00:57.207-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:57.207-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:57.213-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:00:57.222-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:57.222-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:00:57.232-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:00:57.232-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:00:57.978-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.775 seconds
+[2025-03-31T13:01:28.400-0500] {processor.py:186} INFO - Started process (PID=414347) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:28.401-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:01:28.402-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:28.402-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:28.407-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:28.417-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:28.417-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:01:28.427-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:28.427-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:01:28.641-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.244 seconds
+[2025-03-31T13:01:58.809-0500] {processor.py:186} INFO - Started process (PID=414659) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:58.809-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:01:58.811-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:58.810-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:58.816-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:01:58.826-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:58.826-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:01:58.836-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:01:58.836-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:01:58.968-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T13:02:30.007-0500] {processor.py:186} INFO - Started process (PID=414902) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:02:30.008-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:02:30.009-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:02:30.009-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:02:30.014-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:02:30.024-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:02:30.024-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:02:30.033-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:02:30.033-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:02:30.168-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:03:00.255-0500] {processor.py:186} INFO - Started process (PID=415150) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:00.255-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:03:00.256-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:00.256-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:00.262-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:00.271-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:00.271-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:03:00.281-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:00.281-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:03:00.409-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.157 seconds
+[2025-03-31T13:03:30.472-0500] {processor.py:186} INFO - Started process (PID=415279) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:30.473-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:03:30.474-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:30.474-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:30.480-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:03:30.489-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:30.489-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:03:30.498-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:03:30.498-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:03:30.638-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.169 seconds
+[2025-03-31T13:04:00.844-0500] {processor.py:186} INFO - Started process (PID=415522) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:00.845-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:04:00.846-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:00.846-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:00.852-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:00.861-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:00.861-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:04:00.871-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:00.871-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:04:01.092-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.251 seconds
+[2025-03-31T13:04:31.403-0500] {processor.py:186} INFO - Started process (PID=415692) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:31.404-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:04:31.405-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:31.405-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:31.410-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:04:31.420-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:31.420-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:04:31.429-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:04:31.429-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:04:31.607-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.206 seconds
+[2025-03-31T13:05:01.874-0500] {processor.py:186} INFO - Started process (PID=415932) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:01.874-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:05:01.875-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:01.875-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:01.881-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:01.890-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:01.890-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:05:01.900-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:01.899-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:05:02.075-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.204 seconds
+[2025-03-31T13:05:32.245-0500] {processor.py:186} INFO - Started process (PID=416070) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:32.245-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:05:32.246-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:32.246-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:32.252-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:05:32.261-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:32.261-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:05:32.271-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:05:32.271-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:05:32.405-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:06:02.501-0500] {processor.py:186} INFO - Started process (PID=416303) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:02.501-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:06:02.503-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:02.502-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:02.508-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:02.518-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:02.518-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:06:02.528-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:02.528-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:06:02.662-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T13:06:32.766-0500] {processor.py:186} INFO - Started process (PID=416484) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:32.767-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:06:32.768-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:32.768-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:32.773-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:06:32.783-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:32.782-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:06:32.792-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:06:32.792-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:06:32.927-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T13:07:03.574-0500] {processor.py:186} INFO - Started process (PID=416728) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:03.575-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:07:03.576-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:03.576-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:03.582-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:03.592-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:03.591-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:07:03.601-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:03.601-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:07:03.856-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.284 seconds
+[2025-03-31T13:07:34.364-0500] {processor.py:186} INFO - Started process (PID=416967) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:34.364-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:07:34.366-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:34.366-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:34.372-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:07:34.381-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:34.381-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:07:34.390-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:07:34.390-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:07:34.604-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.243 seconds
+[2025-03-31T13:08:04.738-0500] {processor.py:186} INFO - Started process (PID=417316) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:04.738-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:08:04.739-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:04.739-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:04.745-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:04.754-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:04.754-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:08:04.766-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:04.766-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:08:04.902-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.167 seconds
+[2025-03-31T13:08:35.013-0500] {processor.py:186} INFO - Started process (PID=417491) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:35.013-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:08:35.014-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:35.014-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:35.020-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:08:35.030-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:35.029-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:08:35.039-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:08:35.039-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:08:35.175-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T13:09:05.363-0500] {processor.py:186} INFO - Started process (PID=417709) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:05.363-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:09:05.364-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:05.364-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:05.370-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:05.380-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:05.379-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:09:05.389-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:05.389-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:09:05.531-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.171 seconds
+[2025-03-31T13:09:35.738-0500] {processor.py:186} INFO - Started process (PID=417904) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:35.738-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:09:35.739-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:35.739-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:35.745-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:09:35.754-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:35.754-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:09:35.764-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:09:35.764-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:09:35.899-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T13:10:05.957-0500] {processor.py:186} INFO - Started process (PID=418115) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:05.958-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:10:05.959-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:05.959-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:05.965-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:05.974-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:05.974-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:10:05.984-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:05.984-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:10:06.115-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T13:10:36.508-0500] {processor.py:186} INFO - Started process (PID=418345) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:36.509-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:10:36.510-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:36.509-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:36.515-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:10:36.525-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:36.525-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:10:36.535-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:10:36.534-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:10:36.817-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.312 seconds
+[2025-03-31T13:11:07.159-0500] {processor.py:186} INFO - Started process (PID=418561) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:07.159-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:11:07.161-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:07.160-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:07.166-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:07.176-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:07.176-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:11:07.185-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:07.185-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:11:07.760-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.604 seconds
+[2025-03-31T13:11:38.210-0500] {processor.py:186} INFO - Started process (PID=418909) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:38.211-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:11:38.211-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:38.211-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:38.217-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:11:38.227-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:38.227-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:11:38.236-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:11:38.236-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:11:38.368-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T13:12:08.457-0500] {processor.py:186} INFO - Started process (PID=419164) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:08.457-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:12:08.458-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:08.458-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:08.464-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:08.474-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:08.473-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:12:08.483-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:08.483-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:12:08.617-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:12:38.704-0500] {processor.py:186} INFO - Started process (PID=420924) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:38.704-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:12:38.706-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:38.705-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:38.711-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:12:38.720-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:38.720-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:12:38.730-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:12:38.730-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:12:38.883-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.182 seconds
+[2025-03-31T13:13:08.951-0500] {processor.py:186} INFO - Started process (PID=421167) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:08.951-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:13:08.953-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:08.953-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:08.958-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:08.968-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:08.968-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:13:08.977-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:08.977-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:13:09.160-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.212 seconds
+[2025-03-31T13:13:39.296-0500] {processor.py:186} INFO - Started process (PID=421523) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:39.296-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:13:39.297-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:39.297-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:39.303-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:13:39.312-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:39.312-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:13:39.321-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:13:39.321-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:13:39.470-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.178 seconds
+[2025-03-31T13:14:09.542-0500] {processor.py:186} INFO - Started process (PID=421765) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:09.543-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:14:09.544-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:09.544-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:09.549-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:09.559-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:09.558-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:14:09.568-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:09.568-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:14:09.729-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.189 seconds
+[2025-03-31T13:14:39.791-0500] {processor.py:186} INFO - Started process (PID=422175) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:39.791-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:14:39.792-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:39.792-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:39.798-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:14:39.807-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:39.807-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:14:39.817-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:14:39.817-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:14:40.063-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.275 seconds
+[2025-03-31T13:15:11.134-0500] {processor.py:186} INFO - Started process (PID=422402) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:11.135-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:15:11.136-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:11.135-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:11.141-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:11.151-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:11.150-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:15:11.162-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:11.162-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:15:12.871-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.740 seconds
+[2025-03-31T13:15:43.406-0500] {processor.py:186} INFO - Started process (PID=422687) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:43.406-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:15:43.407-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:43.407-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:43.413-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:15:43.422-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:43.422-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:15:43.432-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:15:43.432-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:15:43.612-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.209 seconds
+[2025-03-31T13:16:18.388-0500] {processor.py:186} INFO - Started process (PID=423153) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:18.388-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:16:18.389-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:18.389-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:18.395-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:18.404-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:18.404-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:16:18.414-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:18.414-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:16:18.545-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.160 seconds
+[2025-03-31T13:16:48.837-0500] {processor.py:186} INFO - Started process (PID=423481) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:48.838-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:16:48.839-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:48.838-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:48.844-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:16:48.854-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:48.853-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:16:48.863-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:16:48.863-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:16:48.994-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.160 seconds
+[2025-03-31T13:17:19.258-0500] {processor.py:186} INFO - Started process (PID=423803) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:19.258-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:17:19.259-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:19.259-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:19.265-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:19.274-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:19.274-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:17:19.284-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:19.284-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:17:19.522-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.267 seconds
+[2025-03-31T13:17:49.703-0500] {processor.py:186} INFO - Started process (PID=424322) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:49.704-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:17:49.705-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:49.704-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:49.710-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:17:49.720-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:49.720-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:17:49.729-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:17:49.729-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:17:49.977-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.277 seconds
+[2025-03-31T13:18:20.262-0500] {processor.py:186} INFO - Started process (PID=424532) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:20.262-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:18:20.263-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:20.263-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:20.269-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:20.278-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:20.278-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:18:20.288-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:20.288-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:18:20.425-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.166 seconds
+[2025-03-31T13:18:51.052-0500] {processor.py:186} INFO - Started process (PID=425168) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:51.052-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:18:51.053-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:51.053-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:51.059-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:18:51.068-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:51.068-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:18:51.078-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:18:51.078-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:18:51.219-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.171 seconds
+[2025-03-31T13:19:26.984-0500] {processor.py:186} INFO - Started process (PID=425513) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:26.985-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:19:26.986-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:26.986-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:26.992-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:27.001-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:27.001-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:19:27.011-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:27.011-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:19:27.128-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.147 seconds
+[2025-03-31T13:19:57.273-0500] {processor.py:186} INFO - Started process (PID=425835) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:57.274-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:19:57.275-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:57.274-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:57.280-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:19:57.290-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:57.289-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:19:57.300-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:19:57.299-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:19:57.429-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.159 seconds
+[2025-03-31T13:20:28.006-0500] {processor.py:186} INFO - Started process (PID=425974) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:28.006-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:20:28.008-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:28.007-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:28.013-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:28.022-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:28.022-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:20:28.032-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:28.032-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:20:28.247-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.244 seconds
+[2025-03-31T13:20:58.725-0500] {processor.py:186} INFO - Started process (PID=426365) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:58.725-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:20:58.726-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:58.726-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:58.732-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:20:58.741-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:58.741-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:20:58.751-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:20:58.751-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:20:58.975-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.253 seconds
+[2025-03-31T13:21:29.253-0500] {processor.py:186} INFO - Started process (PID=426834) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:21:29.253-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:21:29.254-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:21:29.254-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:21:29.262-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:21:29.274-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:21:29.273-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:21:29.286-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:21:29.286-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:21:29.422-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.173 seconds
+[2025-03-31T13:22:00.118-0500] {processor.py:186} INFO - Started process (PID=428006) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:00.119-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:22:00.120-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:00.120-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:00.126-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:00.135-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:00.135-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:22:00.145-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:00.145-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:22:00.299-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.184 seconds
+[2025-03-31T13:22:30.966-0500] {processor.py:186} INFO - Started process (PID=432091) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:30.967-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:22:30.968-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:30.968-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:30.974-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:22:30.983-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:30.983-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:22:30.992-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:22:30.992-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:22:31.156-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.193 seconds
+[2025-03-31T13:23:01.923-0500] {processor.py:186} INFO - Started process (PID=432404) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:01.923-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:23:01.925-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:01.924-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:01.930-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:01.940-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:01.940-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:23:01.949-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:01.949-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:23:02.179-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.259 seconds
+[2025-03-31T13:23:32.623-0500] {processor.py:186} INFO - Started process (PID=432569) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:32.624-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:23:32.625-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:32.624-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:32.630-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:23:32.640-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:32.639-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:23:32.649-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:23:32.649-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:23:32.782-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T13:24:02.879-0500] {processor.py:186} INFO - Started process (PID=432856) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:02.879-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:24:02.880-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:02.880-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:02.886-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:02.895-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:02.895-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:24:02.905-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:02.905-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:24:03.116-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.240 seconds
+[2025-03-31T13:24:34.383-0500] {processor.py:186} INFO - Started process (PID=433006) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:34.383-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:24:34.385-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:34.384-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:34.390-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:24:34.399-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:34.399-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:24:34.409-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:24:34.409-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:24:34.561-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.181 seconds
+[2025-03-31T13:25:04.869-0500] {processor.py:186} INFO - Started process (PID=433421) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:04.869-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:25:04.870-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:04.870-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:04.876-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:04.885-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:04.885-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:25:04.895-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:04.895-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:25:05.038-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.172 seconds
+[2025-03-31T13:25:35.243-0500] {processor.py:186} INFO - Started process (PID=433618) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:35.243-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:25:35.244-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:35.244-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:35.250-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:25:35.259-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:35.259-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:25:35.269-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:25:35.269-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:25:35.398-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.158 seconds
+[2025-03-31T13:26:05.512-0500] {processor.py:186} INFO - Started process (PID=433856) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:05.512-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:26:05.513-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:05.513-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:05.519-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:05.528-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:05.528-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:26:05.538-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:05.538-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:26:05.687-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.178 seconds
+[2025-03-31T13:26:35.782-0500] {processor.py:186} INFO - Started process (PID=434073) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:35.782-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:26:35.783-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:35.783-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:35.789-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:26:35.798-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:35.798-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:26:35.808-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:26:35.807-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:26:35.981-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.202 seconds
+[2025-03-31T13:27:06.154-0500] {processor.py:186} INFO - Started process (PID=434309) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:06.154-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:27:06.155-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:06.155-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:06.161-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:06.170-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:06.170-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:27:06.179-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:06.179-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:27:06.314-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:27:37.650-0500] {processor.py:186} INFO - Started process (PID=434499) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:37.650-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:27:37.651-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:37.651-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:37.657-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:27:37.666-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:37.666-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:27:37.676-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:27:37.676-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:27:37.856-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.209 seconds
+[2025-03-31T13:28:08.122-0500] {processor.py:186} INFO - Started process (PID=434699) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:08.122-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:28:08.124-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:08.123-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:08.129-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:08.138-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:08.138-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:28:08.148-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:08.148-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:28:08.355-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.236 seconds
+[2025-03-31T13:28:38.699-0500] {processor.py:186} INFO - Started process (PID=434954) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:38.700-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:28:38.701-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:38.700-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:38.706-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:28:38.716-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:38.715-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:28:38.725-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:28:38.725-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:28:38.893-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.197 seconds
+[2025-03-31T13:29:10.056-0500] {processor.py:186} INFO - Started process (PID=435213) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:10.056-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:29:10.057-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:10.057-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:10.063-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:10.072-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:10.072-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:29:10.082-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:10.081-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:29:10.343-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.290 seconds
+[2025-03-31T13:29:40.415-0500] {processor.py:186} INFO - Started process (PID=435480) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:40.415-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:29:40.416-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:40.416-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:40.422-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:29:40.432-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:40.431-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:29:40.441-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:29:40.441-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:29:40.646-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.234 seconds
+[2025-03-31T13:30:10.763-0500] {processor.py:186} INFO - Started process (PID=435751) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:10.763-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:30:10.764-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:10.764-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:10.770-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:10.779-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:10.779-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:30:10.789-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:10.789-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:30:11.072-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.312 seconds
+[2025-03-31T13:30:41.306-0500] {processor.py:186} INFO - Started process (PID=436048) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:41.307-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:30:41.308-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:41.308-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:41.314-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:30:41.323-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:41.323-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:30:41.333-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:30:41.332-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:30:41.473-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.170 seconds
+[2025-03-31T13:31:11.676-0500] {processor.py:186} INFO - Started process (PID=436245) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:11.677-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:31:11.678-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:11.678-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:11.683-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:11.693-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:11.692-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:31:11.702-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:11.702-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:31:12.500-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.826 seconds
+[2025-03-31T13:31:42.969-0500] {processor.py:186} INFO - Started process (PID=436628) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:42.969-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:31:42.970-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:42.970-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:42.976-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:31:42.985-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:42.985-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:31:42.995-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:31:42.995-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:31:43.791-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.825 seconds
+[2025-03-31T13:32:13.917-0500] {processor.py:186} INFO - Started process (PID=436772) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:13.918-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:32:13.919-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:13.919-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:13.924-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:13.934-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:13.934-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:32:13.944-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:13.943-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:32:14.184-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.270 seconds
+[2025-03-31T13:32:44.840-0500] {processor.py:186} INFO - Started process (PID=437105) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:44.840-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:32:44.841-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:44.841-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:44.847-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:32:44.856-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:44.856-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:32:44.866-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:32:44.866-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:32:45.121-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.284 seconds
+[2025-03-31T13:33:15.191-0500] {processor.py:186} INFO - Started process (PID=437257) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:15.192-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:33:15.192-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:15.192-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:15.198-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:15.208-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:15.208-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:33:15.217-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:15.217-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:33:15.439-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.251 seconds
+[2025-03-31T13:33:45.538-0500] {processor.py:186} INFO - Started process (PID=437559) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:45.538-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:33:45.539-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:45.539-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:45.545-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:33:45.555-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:45.554-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:33:45.564-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:33:45.564-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:33:45.801-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.266 seconds
+[2025-03-31T13:34:15.885-0500] {processor.py:186} INFO - Started process (PID=437746) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:15.886-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:34:15.887-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:15.887-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:15.893-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:15.902-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:15.902-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:34:15.911-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:15.911-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:34:16.038-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.156 seconds
+[2025-03-31T13:34:46.133-0500] {processor.py:186} INFO - Started process (PID=438143) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:46.133-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:34:46.135-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:46.135-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:46.140-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:34:46.150-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:46.149-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:34:46.160-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:34:46.159-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:34:46.293-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:35:16.483-0500] {processor.py:186} INFO - Started process (PID=438317) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:16.483-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:35:16.484-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:16.484-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:16.490-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:16.499-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:16.499-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:35:16.508-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:16.508-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:35:16.642-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T13:35:46.730-0500] {processor.py:186} INFO - Started process (PID=438770) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:46.730-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:35:46.731-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:46.731-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:46.737-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:35:46.746-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:46.746-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:35:46.756-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:35:46.756-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:35:46.898-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.171 seconds
+[2025-03-31T13:36:16.977-0500] {processor.py:186} INFO - Started process (PID=438943) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:16.977-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:36:16.978-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:16.978-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:16.984-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:16.993-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:16.993-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:36:17.003-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:17.003-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:36:17.142-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.168 seconds
+[2025-03-31T13:36:47.223-0500] {processor.py:186} INFO - Started process (PID=439257) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:47.224-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:36:47.225-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:47.224-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:47.230-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:36:47.240-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:47.240-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:36:47.250-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:36:47.250-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:36:47.385-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.165 seconds
+[2025-03-31T13:37:17.470-0500] {processor.py:186} INFO - Started process (PID=439458) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:17.471-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:37:17.472-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:17.472-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:17.477-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:17.487-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:17.486-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:37:17.496-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:17.496-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:37:17.627-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.160 seconds
+[2025-03-31T13:37:47.718-0500] {processor.py:186} INFO - Started process (PID=439746) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:47.718-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:37:47.719-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:47.719-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:47.725-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:37:47.734-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:47.734-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:37:47.744-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:37:47.744-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:37:47.883-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.168 seconds
+[2025-03-31T13:38:18.068-0500] {processor.py:186} INFO - Started process (PID=439908) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:18.069-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:38:18.070-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:18.069-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:18.075-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:18.085-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:18.085-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:38:18.094-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:18.094-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:38:18.271-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.206 seconds
+[2025-03-31T13:38:48.416-0500] {processor.py:186} INFO - Started process (PID=440187) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:48.416-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:38:48.417-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:48.417-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:48.423-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:38:48.433-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:48.433-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:38:48.443-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:38:48.443-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:38:48.577-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T13:39:18.663-0500] {processor.py:186} INFO - Started process (PID=440324) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:18.663-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:39:18.664-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:18.664-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:18.670-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:18.680-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:18.679-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:39:18.689-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:18.689-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:39:18.872-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.212 seconds
+[2025-03-31T13:39:49.011-0500] {processor.py:186} INFO - Started process (PID=440605) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:49.011-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:39:49.012-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:49.012-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:49.018-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:39:49.027-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:49.027-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:39:49.037-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:39:49.037-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:39:49.170-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T13:40:19.258-0500] {processor.py:186} INFO - Started process (PID=440761) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:19.258-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:40:19.259-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:19.259-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:19.265-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:19.274-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:19.274-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:40:19.284-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:19.284-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:40:19.418-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:40:49.505-0500] {processor.py:186} INFO - Started process (PID=441083) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:49.505-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:40:49.506-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:49.506-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:49.512-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:40:49.521-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:49.521-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:40:49.531-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:40:49.531-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:40:49.695-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.193 seconds
+[2025-03-31T13:41:20.773-0500] {processor.py:186} INFO - Started process (PID=441232) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:20.773-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:41:20.774-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:20.774-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:20.780-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:20.789-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:20.789-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:41:20.799-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:20.799-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:41:20.943-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.173 seconds
+[2025-03-31T13:41:51.079-0500] {processor.py:186} INFO - Started process (PID=441544) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:51.080-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:41:51.081-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:51.081-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:51.087-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:41:51.097-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:51.096-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:41:51.106-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:41:51.106-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:41:51.274-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.198 seconds
+[2025-03-31T13:42:21.860-0500] {processor.py:186} INFO - Started process (PID=441660) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:21.861-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:42:21.862-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:21.862-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:21.868-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:21.877-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:21.877-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:42:21.887-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:21.886-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:42:22.055-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.197 seconds
+[2025-03-31T13:42:52.927-0500] {processor.py:186} INFO - Started process (PID=441987) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:52.927-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:42:52.928-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:52.928-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:52.934-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:42:52.943-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:52.943-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:42:52.953-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:42:52.953-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:42:53.081-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.157 seconds
+[2025-03-31T13:43:23.991-0500] {processor.py:186} INFO - Started process (PID=442137) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:23.992-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:43:23.992-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:23.992-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:23.998-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:24.007-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:24.007-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:43:24.017-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:24.017-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:43:24.150-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T13:43:54.839-0500] {processor.py:186} INFO - Started process (PID=442465) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:54.839-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:43:54.840-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:54.840-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:54.846-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:43:54.855-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:54.855-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:43:54.864-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:43:54.864-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:43:55.002-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.166 seconds
+[2025-03-31T13:44:25.855-0500] {processor.py:186} INFO - Started process (PID=442620) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:25.855-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:44:25.856-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:25.856-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:25.862-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:25.871-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:25.871-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:44:25.881-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:25.880-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:44:26.017-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.165 seconds
+[2025-03-31T13:44:56.590-0500] {processor.py:186} INFO - Started process (PID=442901) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:56.590-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:44:56.591-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:56.591-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:56.597-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:44:56.606-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:56.606-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:44:56.616-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:44:56.616-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:44:56.748-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T13:45:26.966-0500] {processor.py:186} INFO - Started process (PID=443074) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:26.967-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:45:26.968-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:26.968-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:26.974-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:26.983-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:26.983-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:45:26.993-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:26.993-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:45:27.174-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.211 seconds
+[2025-03-31T13:45:58.156-0500] {processor.py:186} INFO - Started process (PID=443408) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:58.156-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:45:58.157-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:58.157-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:58.163-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:45:58.172-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:58.172-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:45:58.182-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:45:58.182-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:45:58.315-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T13:46:28.990-0500] {processor.py:186} INFO - Started process (PID=443579) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:46:28.990-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:46:28.991-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:46:28.991-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:46:28.997-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:46:29.006-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:46:29.006-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:46:29.016-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:46:29.016-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:46:29.170-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.183 seconds
+[2025-03-31T13:47:00.076-0500] {processor.py:186} INFO - Started process (PID=443888) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:00.077-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:47:00.078-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:00.078-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:00.083-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:00.092-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:00.092-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:47:00.102-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:00.102-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:47:00.282-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.209 seconds
+[2025-03-31T13:47:30.446-0500] {processor.py:186} INFO - Started process (PID=444032) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:30.446-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:47:30.447-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:30.447-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:30.453-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:47:30.462-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:30.462-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:47:30.472-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:47:30.472-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:47:30.714-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.271 seconds
+[2025-03-31T13:48:01.531-0500] {processor.py:186} INFO - Started process (PID=444298) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:01.532-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:48:01.532-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:01.532-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:01.538-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:01.548-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:01.547-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:48:01.557-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:01.557-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:48:02.301-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.772 seconds
+[2025-03-31T13:48:35.821-0500] {processor.py:186} INFO - Started process (PID=444505) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:35.822-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:48:35.822-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:35.822-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:35.828-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:48:35.837-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:35.837-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:48:35.847-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:48:35.847-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:48:36.996-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.177 seconds
+[2025-03-31T13:49:07.974-0500] {processor.py:186} INFO - Started process (PID=444726) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:07.975-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:49:07.976-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:07.976-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:07.982-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:07.991-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:07.991-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:49:08.001-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:08.000-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:49:08.258-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.287 seconds
+[2025-03-31T13:49:38.438-0500] {processor.py:186} INFO - Started process (PID=444976) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:38.438-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:49:38.439-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:38.439-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:38.445-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:49:38.454-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:38.454-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:49:38.464-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:49:38.464-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:49:38.743-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.309 seconds
+[2025-03-31T13:50:09.528-0500] {processor.py:186} INFO - Started process (PID=445188) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:09.529-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:50:09.530-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:09.530-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:09.535-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:09.545-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:09.545-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:50:09.555-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:09.554-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:50:10.827-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.301 seconds
+[2025-03-31T13:50:45.659-0500] {processor.py:186} INFO - Started process (PID=445577) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:45.659-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:50:45.660-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:45.660-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:45.666-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:50:45.675-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:45.675-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:50:45.685-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:50:45.685-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:50:49.943-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 4.287 seconds
+[2025-03-31T13:51:20.839-0500] {processor.py:186} INFO - Started process (PID=445846) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:20.840-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:51:20.841-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:20.841-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:20.866-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:20.876-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:20.875-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:51:20.885-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:20.885-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:51:24.685-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 3.849 seconds
+[2025-03-31T13:51:54.805-0500] {processor.py:186} INFO - Started process (PID=447001) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:54.805-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:51:54.806-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:54.806-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:54.812-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:51:54.822-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:54.822-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:51:54.833-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:51:54.832-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:51:56.614-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.812 seconds
+[2025-03-31T13:52:27.187-0500] {processor.py:186} INFO - Started process (PID=452067) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:27.187-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:52:27.188-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:27.188-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:27.194-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:27.204-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:27.204-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:52:27.213-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:27.213-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:52:28.355-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.171 seconds
+[2025-03-31T13:52:59.431-0500] {processor.py:186} INFO - Started process (PID=452396) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:59.431-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:52:59.432-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:59.432-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:59.438-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:52:59.447-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:59.447-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:52:59.457-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:52:59.457-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:53:00.634-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.207 seconds
+[2025-03-31T13:53:31.723-0500] {processor.py:186} INFO - Started process (PID=452680) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:53:32.731-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:53:32.732-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:53:32.732-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:53:32.752-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:53:32.782-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:53:32.782-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:53:32.791-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:53:32.791-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:53:32.925-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.883 seconds
+[2025-03-31T13:54:03.629-0500] {processor.py:186} INFO - Started process (PID=452979) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:03.637-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:54:03.638-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:03.638-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:03.771-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:03.860-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:03.860-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:54:03.870-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:03.870-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:54:04.119-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.525 seconds
+[2025-03-31T13:54:34.823-0500] {processor.py:186} INFO - Started process (PID=453259) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:34.824-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:54:34.825-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:34.825-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:34.838-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:54:34.847-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:34.847-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:54:34.857-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:54:34.856-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:54:35.112-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.291 seconds
+[2025-03-31T13:55:05.147-0500] {processor.py:186} INFO - Started process (PID=453647) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:05.147-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:55:05.149-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:05.148-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:05.154-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:05.164-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:05.164-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:55:05.173-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:05.173-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:55:06.444-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.300 seconds
+[2025-03-31T13:55:37.135-0500] {processor.py:186} INFO - Started process (PID=454052) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:37.136-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:55:37.137-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:37.137-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:37.143-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:55:37.152-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:37.152-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:55:37.162-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:55:37.162-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:55:37.320-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.187 seconds
+[2025-03-31T13:56:08.168-0500] {processor.py:186} INFO - Started process (PID=454429) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:08.168-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:56:08.170-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:08.170-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:08.175-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:08.185-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:08.185-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:56:08.195-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:08.195-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:56:11.507-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 3.342 seconds
+[2025-03-31T13:56:42.207-0500] {processor.py:186} INFO - Started process (PID=454802) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:42.207-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:56:42.208-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:42.208-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:42.214-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:56:42.223-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:42.223-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:56:42.233-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:56:42.233-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:56:42.753-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.549 seconds
+[2025-03-31T13:57:15.280-0500] {processor.py:186} INFO - Started process (PID=454990) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:15.280-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:57:15.281-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:15.281-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:15.287-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:15.296-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:15.296-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:57:15.306-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:15.306-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:57:18.061-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 2.784 seconds
+[2025-03-31T13:57:48.332-0500] {processor.py:186} INFO - Started process (PID=455292) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:48.333-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:57:48.335-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:48.334-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:48.356-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:57:48.386-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:48.386-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:57:48.395-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:57:48.395-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:57:48.537-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.214 seconds
+[2025-03-31T13:58:20.030-0500] {processor.py:186} INFO - Started process (PID=455425) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:58:20.995-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:58:20.997-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:58:20.997-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:58:26.188-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:58:29.330-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:58:29.329-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:58:29.339-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:58:29.339-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:58:31.836-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 11.852 seconds
+[2025-03-31T13:59:02.180-0500] {processor.py:186} INFO - Started process (PID=456008) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:02.181-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:59:02.182-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:02.182-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:02.312-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:02.482-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:02.482-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:59:02.491-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:02.491-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:59:02.760-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.590 seconds
+[2025-03-31T13:59:34.304-0500] {processor.py:186} INFO - Started process (PID=456320) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:34.304-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T13:59:34.306-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:34.305-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:34.311-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T13:59:34.321-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:34.321-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T13:59:34.330-0500] {logging_mixin.py:190} INFO - [2025-03-31T13:59:34.330-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T13:59:34.632-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.331 seconds
+[2025-03-31T14:00:06.588-0500] {processor.py:186} INFO - Started process (PID=457462) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:06.588-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:00:06.589-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:06.589-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:06.595-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:06.606-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:06.605-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:00:06.721-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:06.720-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:00:08.091-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.506 seconds
+[2025-03-31T14:00:38.290-0500] {processor.py:186} INFO - Started process (PID=458326) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:38.290-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:00:38.291-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:38.291-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:38.297-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:00:38.306-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:38.306-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:00:38.317-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:00:38.316-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:00:38.510-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.223 seconds
+[2025-03-31T14:01:12.698-0500] {processor.py:186} INFO - Started process (PID=458621) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:12.698-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:01:12.699-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:12.699-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:12.705-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:12.715-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:12.715-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:01:12.906-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:12.906-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:01:13.638-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.943 seconds
+[2025-03-31T14:01:55.458-0500] {processor.py:186} INFO - Started process (PID=459155) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:55.459-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:01:55.459-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:55.459-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:55.465-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:01:55.476-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:55.476-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:01:55.486-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:01:55.486-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:01:56.756-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 1.301 seconds
+[2025-03-31T14:02:26.982-0500] {processor.py:186} INFO - Started process (PID=459318) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:26.982-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:02:26.983-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:26.983-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:26.989-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:26.998-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:26.998-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:02:27.008-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:27.008-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:02:27.254-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.275 seconds
+[2025-03-31T14:02:58.250-0500] {processor.py:186} INFO - Started process (PID=459594) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:58.251-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:02:58.252-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:58.252-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:58.257-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:02:58.267-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:58.267-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:02:58.277-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:02:58.276-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:02:58.478-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.231 seconds
+[2025-03-31T14:03:28.672-0500] {processor.py:186} INFO - Started process (PID=459723) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:28.673-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:03:28.674-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:28.674-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:28.680-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:28.689-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:28.689-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:03:28.699-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:28.699-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:03:28.834-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T14:03:59.685-0500] {processor.py:186} INFO - Started process (PID=460017) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:59.686-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:03:59.687-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:59.687-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:59.693-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:03:59.702-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:59.702-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:03:59.712-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:03:59.712-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:03:59.847-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.164 seconds
+[2025-03-31T14:04:30.772-0500] {processor.py:186} INFO - Started process (PID=460185) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:04:30.773-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:04:30.774-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:04:30.773-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:04:30.779-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:04:30.789-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:04:30.788-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:04:30.798-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:04:30.798-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:04:30.930-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds
+[2025-03-31T14:05:01.959-0500] {processor.py:186} INFO - Started process (PID=460467) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:01.959-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:05:01.960-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:01.960-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:01.966-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:01.975-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:01.975-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:05:01.985-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:01.985-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:05:02.119-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T14:05:32.805-0500] {processor.py:186} INFO - Started process (PID=460773) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:32.806-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:05:32.807-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:32.807-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:32.813-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:05:32.822-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:32.822-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:05:32.831-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:05:32.831-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:05:32.967-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.165 seconds
+[2025-03-31T14:06:03.299-0500] {processor.py:186} INFO - Started process (PID=461086) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:03.300-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:06:03.300-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:03.300-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:03.306-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:03.315-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:03.315-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:06:03.325-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:03.325-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:06:03.458-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T14:06:42.460-0500] {processor.py:186} INFO - Started process (PID=461558) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:42.461-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:06:42.462-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:42.461-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:42.468-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:06:42.477-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:42.477-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:06:42.488-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:06:42.488-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:06:42.645-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.188 seconds
+[2025-03-31T14:07:13.166-0500] {processor.py:186} INFO - Started process (PID=461801) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:13.167-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:07:13.168-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:13.167-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:13.173-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:13.183-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:13.183-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:07:13.193-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:13.193-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:07:13.582-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.418 seconds
+[2025-03-31T14:07:44.541-0500] {processor.py:186} INFO - Started process (PID=462129) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:44.541-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:07:44.542-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:44.542-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:44.548-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:07:44.557-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:44.557-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:07:44.567-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:07:44.567-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:07:44.787-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.249 seconds
+[2025-03-31T14:08:15.270-0500] {processor.py:186} INFO - Started process (PID=462266) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:15.270-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:08:15.271-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:15.271-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:15.277-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:15.287-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:15.286-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:08:15.296-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:15.296-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:08:15.430-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T14:08:46.239-0500] {processor.py:186} INFO - Started process (PID=462562) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:46.239-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:08:46.240-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:46.240-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:46.246-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:08:46.255-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:46.255-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:08:46.265-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:08:46.265-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:08:46.399-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T14:09:16.958-0500] {processor.py:186} INFO - Started process (PID=462702) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:16.958-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:09:16.960-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:16.959-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:16.965-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:16.975-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:16.975-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:09:16.984-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:16.984-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:09:17.118-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.163 seconds
+[2025-03-31T14:09:47.853-0500] {processor.py:186} INFO - Started process (PID=463108) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:47.854-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:09:47.855-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:47.854-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:47.860-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:09:47.870-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:47.870-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:09:47.879-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:09:47.879-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:09:48.065-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.215 seconds
+[2025-03-31T14:10:19.313-0500] {processor.py:186} INFO - Started process (PID=463279) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:19.313-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:10:19.314-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:19.314-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:19.320-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:19.329-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:19.329-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:10:19.339-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:19.339-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:10:19.472-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.162 seconds
+[2025-03-31T14:10:50.428-0500] {processor.py:186} INFO - Started process (PID=463664) to work on /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:50.428-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/hello_world.py for tasks to queue
+[2025-03-31T14:10:50.429-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:50.429-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:50.435-0500] {processor.py:925} INFO - DAG(s) 'hw' retrieved from /home/udhbhav/airflow/dags/hello_world.py
+[2025-03-31T14:10:50.444-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:50.444-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-31T14:10:50.454-0500] {logging_mixin.py:190} INFO - [2025-03-31T14:10:50.454-0500] {dag.py:4180} INFO - Setting next_dagrun for hw to 2025-03-31 00:00:00+00:00, run_after=2025-04-01 00:00:00+00:00
+[2025-03-31T14:10:50.586-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/hello_world.py took 0.161 seconds

@@ -1,0 +1,329 @@
+[2025-04-03T17:06:07.059-0500] {processor.py:186} INFO - Started process (PID=1671482) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:07.059-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:06:07.060-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:07.060-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:10.791-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:11.081-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.081-0500] {override.py:1912} INFO - Created Permission View: can read on DAG:pipeline
+[2025-04-03T17:06:11.211-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.211-0500] {override.py:1912} INFO - Created Permission View: can edit on DAG:pipeline
+[2025-04-03T17:06:11.339-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.339-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG:pipeline
+[2025-04-03T17:06:11.587-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.587-0500] {override.py:1912} INFO - Created Permission View: can read on DAG Run:pipeline
+[2025-04-03T17:06:11.714-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.713-0500] {override.py:1912} INFO - Created Permission View: can create on DAG Run:pipeline
+[2025-04-03T17:06:11.869-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.869-0500] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:pipeline
+[2025-04-03T17:06:12.000-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:11.999-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:pipeline
+[2025-04-03T17:06:12.000-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:12.000-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:06:12.005-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:12.005-0500] {dag.py:3262} INFO - Creating ORM DAG for pipeline
+[2025-04-03T17:06:12.009-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:12.009-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to 2025-04-02 00:00:00+00:00, run_after=2025-04-02 00:00:00+00:00
+[2025-04-03T17:06:12.149-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 5.093 seconds
+[2025-04-03T17:06:42.348-0500] {processor.py:186} INFO - Started process (PID=1672084) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:42.348-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:06:42.349-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:42.349-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:42.592-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:06:42.599-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:42.599-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:06:42.607-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:06:42.607-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to 2025-04-02 00:00:00+00:00, run_after=2025-04-02 00:00:00+00:00
+[2025-04-03T17:06:43.321-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.976 seconds
+[2025-04-03T17:07:13.657-0500] {processor.py:186} INFO - Started process (PID=1672592) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:13.657-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:07:13.658-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:13.658-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:13.885-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:13.892-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:13.892-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:07:13.900-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:13.899-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:07:14.034-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.380 seconds
+[2025-04-03T17:07:44.209-0500] {processor.py:186} INFO - Started process (PID=1673209) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:44.209-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:07:44.210-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:44.210-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:44.443-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:07:44.450-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:44.450-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:07:44.458-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:07:44.458-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:07:45.350-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 1.144 seconds
+[2025-04-03T17:08:15.455-0500] {processor.py:186} INFO - Started process (PID=1673622) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:15.456-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:08:15.457-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:15.457-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:15.687-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:15.695-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:15.695-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:08:15.704-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:15.704-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:08:15.996-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.543 seconds
+[2025-04-03T17:08:46.102-0500] {processor.py:186} INFO - Started process (PID=1674490) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:46.103-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:08:46.104-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:46.103-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:46.336-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:08:46.343-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:46.343-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:08:46.352-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:08:46.352-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:08:46.630-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.530 seconds
+[2025-04-03T17:09:16.927-0500] {processor.py:186} INFO - Started process (PID=1674909) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:16.927-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:09:16.928-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:16.928-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:17.159-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:17.167-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:17.166-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:09:17.175-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:17.175-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:09:17.344-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.420 seconds
+[2025-04-03T17:09:47.475-0500] {processor.py:186} INFO - Started process (PID=1675497) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:47.475-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:09:47.476-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:47.476-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:47.729-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:47.738-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:47.738-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:09:47.747-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:47.747-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:09:48.376-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.904 seconds
+[2025-04-03T17:09:56.205-0500] {processor.py:186} INFO - Started process (PID=1675765) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:56.205-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:09:56.206-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:56.206-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:56.442-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:09:56.488-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:56.488-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:09:56.495-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:09:56.495-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:09:56.689-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.486 seconds
+[2025-04-03T17:10:26.882-0500] {processor.py:186} INFO - Started process (PID=1676208) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:10:26.882-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:10:26.883-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:10:26.883-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:10:27.114-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:10:27.122-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:10:27.122-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:10:27.130-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:10:27.130-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:10:27.263-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.384 seconds
+[2025-04-03T17:11:03.438-0500] {processor.py:186} INFO - Started process (PID=1676904) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:03.438-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:11:03.439-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:03.439-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:03.666-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:03.674-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:03.673-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:11:03.681-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:03.681-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:11:03.820-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.385 seconds
+[2025-04-03T17:11:34.418-0500] {processor.py:186} INFO - Started process (PID=1687730) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:34.419-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:11:34.420-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:34.419-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:34.649-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:11:34.657-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:34.656-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:11:34.664-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:11:34.664-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:11:34.861-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.446 seconds
+[2025-04-03T17:12:05.940-0500] {processor.py:186} INFO - Started process (PID=1688240) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:05.940-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:12:05.941-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:05.941-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:06.175-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:06.183-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:06.183-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:12:06.191-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:06.191-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:12:06.373-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.436 seconds
+[2025-04-03T17:12:37.410-0500] {processor.py:186} INFO - Started process (PID=1688746) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:37.411-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:12:37.412-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:37.412-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:37.638-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:12:37.646-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:37.646-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:12:37.654-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:12:37.654-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:12:37.829-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.421 seconds
+[2025-04-03T17:13:08.806-0500] {processor.py:186} INFO - Started process (PID=1689302) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:08.806-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:13:08.807-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:08.807-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:09.030-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:09.038-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:09.038-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:13:09.046-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:09.046-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:13:09.223-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.419 seconds
+[2025-04-03T17:13:40.770-0500] {processor.py:186} INFO - Started process (PID=1690722) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:40.771-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:13:40.772-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:40.772-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:40.998-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:13:41.005-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:41.005-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:13:41.014-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:13:41.014-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:13:41.245-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.477 seconds
+[2025-04-03T17:14:12.782-0500] {processor.py:186} INFO - Started process (PID=1691176) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:12.782-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:14:12.783-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:12.783-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:13.040-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:13.048-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:13.048-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:14:13.058-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:13.058-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:14:13.287-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.508 seconds
+[2025-04-03T17:14:43.453-0500] {processor.py:186} INFO - Started process (PID=1691718) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:43.453-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:14:43.454-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:43.454-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:43.678-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:14:43.686-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:43.686-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:14:43.694-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:14:43.694-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:14:43.851-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.401 seconds
+[2025-04-03T17:15:14.434-0500] {processor.py:186} INFO - Started process (PID=1701255) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:14.434-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:15:14.436-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:14.435-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:14.678-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:14.686-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:14.686-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:15:14.694-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:14.694-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:15:14.886-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.455 seconds
+[2025-04-03T17:15:45.407-0500] {processor.py:186} INFO - Started process (PID=1712789) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:45.407-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:15:45.409-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:45.408-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:45.686-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:15:45.696-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:45.695-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:15:45.704-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:15:45.704-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:15:46.549-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 1.146 seconds
+[2025-04-03T17:16:16.682-0500] {processor.py:186} INFO - Started process (PID=1726812) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:16.683-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:16:16.684-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:16.684-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:16.980-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:16.988-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:16.988-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:16:16.997-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:16.997-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:16:17.232-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.553 seconds
+[2025-04-03T17:16:30.163-0500] {processor.py:186} INFO - Started process (PID=1731873) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:30.163-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:16:30.165-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:30.165-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:30.468-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:16:30.478-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:30.477-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:16:30.486-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:16:30.486-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:16:31.300-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 1.140 seconds
+[2025-04-03T17:17:01.656-0500] {processor.py:186} INFO - Started process (PID=1740156) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:01.657-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:17:01.658-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:01.658-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:01.947-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:01.957-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:01.957-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:17:01.967-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:01.967-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:17:02.239-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.586 seconds
+[2025-04-03T17:17:33.114-0500] {processor.py:186} INFO - Started process (PID=1746917) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:33.115-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:17:33.116-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:33.115-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:33.352-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:17:33.360-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:33.359-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:17:33.369-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:17:33.368-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:17:33.634-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.523 seconds
+[2025-04-03T17:18:04.829-0500] {processor.py:186} INFO - Started process (PID=1747959) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:04.830-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:18:04.831-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:04.831-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:05.001-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:05.011-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:05.011-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:18:05.019-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:05.019-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:18:05.173-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.347 seconds
+[2025-04-03T17:18:35.742-0500] {processor.py:186} INFO - Started process (PID=1748338) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:35.742-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:18:35.743-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:35.743-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:35.915-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:35.925-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:35.925-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:18:35.934-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:35.934-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:18:36.085-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.347 seconds
+[2025-04-03T17:18:57.423-0500] {processor.py:186} INFO - Started process (PID=1748767) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:57.423-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:18:57.424-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:57.424-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:57.427-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:18:57.426-0500] {dagbag.py:387} ERROR - Failed to import: /home/udhbhav/airflow/dags/exec_pipeline.py
+Traceback (most recent call last):
+  File "/home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/udhbhav/airflow/dags/exec_pipeline.py", line 52
+    	region_df.to_csv(""/home/udhbhav/airflow/output/region.csv"")
+    	                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2025-04-03T17:18:57.428-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:18:57.579-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.159 seconds
+[2025-04-03T17:19:28.578-0500] {processor.py:186} INFO - Started process (PID=1749245) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:28.578-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:19:28.579-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:19:28.579-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:28.581-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:19:28.581-0500] {dagbag.py:387} ERROR - Failed to import: /home/udhbhav/airflow/dags/exec_pipeline.py
+Traceback (most recent call last):
+  File "/home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 936, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/udhbhav/airflow/dags/exec_pipeline.py", line 52
+    	region_df.to_csv(""/home/udhbhav/airflow/output/region.csv"")
+    	                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[2025-04-03T17:19:28.582-0500] {processor.py:927} WARNING - No viable dags retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:28.689-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.114 seconds
+[2025-04-03T17:19:42.017-0500] {processor.py:186} INFO - Started process (PID=1749608) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:42.017-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:19:42.018-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:19:42.018-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:42.207-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:19:42.267-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:19:42.266-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:19:42.274-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:19:42.274-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:19:42.643-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.629 seconds
+[2025-04-03T17:20:15.245-0500] {processor.py:186} INFO - Started process (PID=1750095) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:15.246-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:20:15.247-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:15.247-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:15.424-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:15.433-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:15.433-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:20:15.442-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:15.442-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:20:15.620-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.378 seconds
+[2025-04-03T17:20:46.311-0500] {processor.py:186} INFO - Started process (PID=1750651) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:46.311-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:20:46.312-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:46.312-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:46.489-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:20:46.498-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:46.498-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:20:46.506-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:20:46.506-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:20:46.720-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.412 seconds
+[2025-04-03T17:21:17.140-0500] {processor.py:186} INFO - Started process (PID=1750978) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:17.140-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:21:17.142-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:17.141-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:17.313-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:17.322-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:17.322-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:21:17.332-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:17.331-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:21:17.485-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.349 seconds
+[2025-04-03T17:21:48.196-0500] {processor.py:186} INFO - Started process (PID=1751469) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:48.197-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:21:48.198-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:48.198-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:48.369-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:21:48.378-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:48.378-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:21:48.388-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:21:48.387-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:21:48.691-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.497 seconds
+[2025-04-03T17:22:18.836-0500] {processor.py:186} INFO - Started process (PID=1751771) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:18.837-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:22:18.838-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:18.838-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:19.007-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:19.017-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:19.017-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:22:19.025-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:19.025-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:22:19.208-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.374 seconds
+[2025-04-03T17:22:49.847-0500] {processor.py:186} INFO - Started process (PID=1752296) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:49.847-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:22:49.848-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:49.848-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:50.018-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:22:50.029-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:50.028-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:22:50.037-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:22:50.037-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:22:50.214-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.371 seconds
+[2025-04-03T17:23:00.268-0500] {processor.py:186} INFO - Started process (PID=1752477) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:00.268-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:23:00.269-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:00.269-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:00.456-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:00.466-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:00.465-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:23:00.474-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:00.474-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:23:00.661-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.396 seconds
+[2025-04-03T17:23:31.073-0500] {processor.py:186} INFO - Started process (PID=1753034) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:31.074-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:23:31.075-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:31.075-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:31.278-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:23:31.288-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:31.288-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:23:31.298-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:23:31.298-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:23:31.589-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.519 seconds
+[2025-04-03T17:24:02.298-0500] {processor.py:186} INFO - Started process (PID=1754100) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:02.298-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:24:02.299-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:02.299-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:02.471-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:02.480-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:02.480-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:24:02.489-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:02.489-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:24:02.768-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.473 seconds
+[2025-04-03T17:24:33.650-0500] {processor.py:186} INFO - Started process (PID=1754666) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:33.650-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:24:33.651-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:33.651-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:33.825-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:24:33.834-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:33.834-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:24:33.843-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:24:33.843-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:24:34.080-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.434 seconds
+[2025-04-03T17:25:04.336-0500] {processor.py:186} INFO - Started process (PID=1755204) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:04.337-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:25:04.338-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:04.338-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:04.511-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:04.521-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:04.521-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:25:04.530-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:04.530-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:25:04.768-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.435 seconds
+[2025-04-03T17:25:34.969-0500] {processor.py:186} INFO - Started process (PID=1755692) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:34.969-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:25:34.971-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:34.970-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:35.140-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:25:35.150-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:35.150-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:25:35.159-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:25:35.159-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:25:35.358-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.392 seconds
+[2025-04-03T17:26:07.383-0500] {processor.py:186} INFO - Started process (PID=1756111) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:07.383-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:26:07.384-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:07.384-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:07.560-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:07.570-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:07.569-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:26:07.580-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:07.579-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:26:07.902-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.523 seconds
+[2025-04-03T17:26:38.598-0500] {processor.py:186} INFO - Started process (PID=1756635) to work on /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:38.598-0500] {processor.py:914} INFO - Processing file /home/udhbhav/airflow/dags/exec_pipeline.py for tasks to queue
+[2025-04-03T17:26:38.599-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:38.599-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:38.768-0500] {processor.py:925} INFO - DAG(s) 'pipeline' retrieved from /home/udhbhav/airflow/dags/exec_pipeline.py
+[2025-04-03T17:26:38.778-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:38.778-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-04-03T17:26:38.787-0500] {logging_mixin.py:190} INFO - [2025-04-03T17:26:38.787-0500] {dag.py:4180} INFO - Setting next_dagrun for pipeline to None, run_after=None
+[2025-04-03T17:26:39.005-0500] {processor.py:208} INFO - Processing /home/udhbhav/airflow/dags/exec_pipeline.py took 0.410 seconds

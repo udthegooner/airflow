@@ -1,0 +1,21 @@
+[2025-03-31T12:59:24.236-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-31T12:59:24.242-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: exec_mult_tasks.4 manual__2025-03-31T17:59:11.352754+00:00 [queued]>
+[2025-03-31T12:59:24.246-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: exec_mult_tasks.4 manual__2025-03-31T17:59:11.352754+00:00 [queued]>
+[2025-03-31T12:59:24.246-0500] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-31T12:59:24.400-0500] {taskinstance.py:2890} INFO - Executing <Task(BashOperator): 4> on 2025-03-31 17:59:11.352754+00:00
+[2025-03-31T12:59:24.401-0500] {standard_task_runner.py:72} INFO - Started process 413111 to run task
+[2025-03-31T12:59:24.403-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'exec_mult_tasks', '4', 'manual__2025-03-31T17:59:11.352754+00:00', '--job-id', '32', '--raw', '--subdir', 'DAGS_FOLDER/exec_multiple_tasks.py', '--cfg-path', '/tmp/tmpc50sdlc7']
+[2025-03-31T12:59:24.404-0500] {standard_task_runner.py:105} INFO - Job 32: Subtask 4
+[2025-03-31T12:59:24.563-0500] {task_command.py:467} INFO - Running <TaskInstance: exec_mult_tasks.4 manual__2025-03-31T17:59:11.352754+00:00 [running]> on host royal-07.cs.wisc.edu
+[2025-03-31T12:59:24.849-0500] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='cloud.user' AIRFLOW_CTX_DAG_ID='exec_mult_tasks' AIRFLOW_CTX_TASK_ID='4' AIRFLOW_CTX_EXECUTION_DATE='2025-03-31T17:59:11.352754+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-31T17:59:11.352754+00:00'
+[2025-03-31T12:59:24.850-0500] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-31T12:59:24.858-0500] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2025-03-31T12:59:24.858-0500] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'echo Task 4 executed']
+[2025-03-31T12:59:24.861-0500] {subprocess.py:99} INFO - Output:
+[2025-03-31T12:59:24.862-0500] {subprocess.py:106} INFO - Task 4 executed
+[2025-03-31T12:59:24.862-0500] {subprocess.py:110} INFO - Command exited with return code 0
+[2025-03-31T12:59:24.989-0500] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-31T12:59:24.989-0500] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=exec_mult_tasks, task_id=4, run_id=manual__2025-03-31T17:59:11.352754+00:00, execution_date=20250331T175911, start_date=20250331T175924, end_date=20250331T175924
+[2025-03-31T12:59:25.298-0500] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-31T12:59:25.303-0500] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-31T12:59:25.303-0500] {local_task_job_runner.py:245} INFO - ::endgroup::

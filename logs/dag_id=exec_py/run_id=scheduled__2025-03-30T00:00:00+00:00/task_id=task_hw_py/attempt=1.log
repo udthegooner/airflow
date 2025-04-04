@@ -1,0 +1,19 @@
+[2025-03-31T14:01:46.115-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-31T14:01:46.120-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: exec_py.task_hw_py scheduled__2025-03-30T00:00:00+00:00 [queued]>
+[2025-03-31T14:01:46.122-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: exec_py.task_hw_py scheduled__2025-03-30T00:00:00+00:00 [queued]>
+[2025-03-31T14:01:46.122-0500] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-31T14:01:46.229-0500] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): task_hw_py> on 2025-03-30 00:00:00+00:00
+[2025-03-31T14:01:46.231-0500] {standard_task_runner.py:72} INFO - Started process 459032 to run task
+[2025-03-31T14:01:46.232-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'exec_py', 'task_hw_py', 'scheduled__2025-03-30T00:00:00+00:00', '--job-id', '47', '--raw', '--subdir', 'DAGS_FOLDER/exec_py.py', '--cfg-path', '/tmp/tmpun8vpsf9']
+[2025-03-31T14:01:46.233-0500] {standard_task_runner.py:105} INFO - Job 47: Subtask task_hw_py
+[2025-03-31T14:01:46.384-0500] {task_command.py:467} INFO - Running <TaskInstance: exec_py.task_hw_py scheduled__2025-03-30T00:00:00+00:00 [running]> on host royal-07.cs.wisc.edu
+[2025-03-31T14:01:48.765-0500] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='cloud.user' AIRFLOW_CTX_DAG_ID='exec_py' AIRFLOW_CTX_TASK_ID='task_hw_py' AIRFLOW_CTX_EXECUTION_DATE='2025-03-30T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-30T00:00:00+00:00'
+[2025-03-31T14:01:48.766-0500] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-31T14:01:48.816-0500] {logging_mixin.py:190} INFO - hello python world
+[2025-03-31T14:01:48.816-0500] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-31T14:01:48.998-0500] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-31T14:01:48.999-0500] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=exec_py, task_id=task_hw_py, run_id=scheduled__2025-03-30T00:00:00+00:00, execution_date=20250330T000000, start_date=20250331T190146, end_date=20250331T190148
+[2025-03-31T14:01:51.068-0500] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-31T14:01:51.074-0500] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-31T14:01:51.074-0500] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2025-03-31T14:01:51.233-0500] {standard_task_runner.py:217} INFO - Process not found (most likely exited), stop collecting metrics

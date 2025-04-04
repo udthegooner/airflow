@@ -1,0 +1,29 @@
+[2025-03-27T14:41:02.781-0500] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-27T14:41:02.788-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: example_branch_operator.branching scheduled__2025-03-26T00:00:00+00:00 [queued]>
+[2025-03-27T14:41:02.791-0500] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: example_branch_operator.branching scheduled__2025-03-26T00:00:00+00:00 [queued]>
+[2025-03-27T14:41:02.791-0500] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-27T14:41:02.925-0500] {taskinstance.py:2890} INFO - Executing <Task(BranchPythonOperator): branching> on 2025-03-26 00:00:00+00:00
+[2025-03-27T14:41:02.926-0500] {standard_task_runner.py:72} INFO - Started process 1772114 to run task
+[2025-03-27T14:41:02.928-0500] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'example_branch_operator', 'branching', 'scheduled__2025-03-26T00:00:00+00:00', '--job-id', '3', '--raw', '--subdir', '/home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py', '--cfg-path', '/tmp/tmpw6m_y5w7']
+[2025-03-27T14:41:02.928-0500] {standard_task_runner.py:105} INFO - Job 3: Subtask branching
+[2025-03-27T14:41:03.043-0500] {task_command.py:467} INFO - Running <TaskInstance: example_branch_operator.branching scheduled__2025-03-26T00:00:00+00:00 [running]> on host royal-07.cs.wisc.edu
+[2025-03-27T14:41:03.284-0500] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='example_branch_operator' AIRFLOW_CTX_TASK_ID='branching' AIRFLOW_CTX_EXECUTION_DATE='2025-03-26T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-03-26T00:00:00+00:00'
+[2025-03-27T14:41:03.285-0500] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-03-27T14:41:03.285-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-03-27T14:41:03.285-0500] {logging_mixin.py:190} INFO - Current task name:branching state:running start_date:2025-03-27 19:41:02.788289+00:00
+[2025-03-27T14:41:03.285-0500] {logging_mixin.py:190} INFO - Dag name:example_branch_operator and current dag run status:running
+[2025-03-27T14:41:03.285-0500] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-27T14:41:03.286-0500] {baseoperator.py:423} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2025-03-27T14:41:03.286-0500] {python.py:240} INFO - Done. Returned value was: branch_a
+[2025-03-27T14:41:03.286-0500] {branch.py:38} INFO - Branch into branch_a
+[2025-03-27T14:41:03.286-0500] {skipmixin.py:233} INFO - Following branch ('branch_a',)
+[2025-03-27T14:41:03.290-0500] {skipmixin.py:281} INFO - Skipping tasks [('branch_c', -1), ('branch_d', -1), ('branch_b', -1)]
+[2025-03-27T14:41:03.522-0500] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-27T14:41:03.522-0500] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=example_branch_operator, task_id=branching, run_id=scheduled__2025-03-26T00:00:00+00:00, execution_date=20250326T000000, start_date=20250327T194102, end_date=20250327T194103
+[2025-03-27T14:41:03.747-0500] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-03-27T14:41:03.748-0500] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-03-27T14:41:03.748-0500] {logging_mixin.py:190} INFO - Dag name:example_branch_operator queued_at:2025-03-27 19:40:59.411034+00:00
+[2025-03-27T14:41:03.748-0500] {logging_mixin.py:190} INFO - Task hostname:royal-07.cs.wisc.edu operator:BranchPythonOperator
+[2025-03-27T14:41:03.782-0500] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-27T14:41:03.796-0500] {taskinstance.py:3901} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-27T14:41:03.923-0500] {local_task_job_runner.py:245} INFO - ::endgroup::

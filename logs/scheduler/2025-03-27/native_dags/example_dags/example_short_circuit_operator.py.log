@@ -1,0 +1,358 @@
+[2025-03-27T14:26:55.423-0500] {processor.py:186} INFO - Started process (PID=1763584) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:26:55.424-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:26:55.425-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:55.424-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:26:55.430-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:26:55.873-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:55.872-0500] {override.py:1912} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2025-03-27T14:26:56.102-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:56.102-0500] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2025-03-27T14:26:56.928-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:56.927-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2025-03-27T14:26:57.697-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:57.697-0500] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_short_circuit_operator
+[2025-03-27T14:26:57.938-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:57.938-0500] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_short_circuit_operator
+[2025-03-27T14:26:58.398-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:58.397-0500] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_short_circuit_operator
+[2025-03-27T14:26:58.532-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:58.532-0500] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_short_circuit_operator
+[2025-03-27T14:26:58.532-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:58.532-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:26:58.538-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:58.538-0500] {dag.py:3262} INFO - Creating ORM DAG for example_short_circuit_operator
+[2025-03-27T14:26:58.538-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:26:58.538-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:26:59.455-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 4.034 seconds
+[2025-03-27T14:28:43.363-0500] {processor.py:186} INFO - Started process (PID=1764544) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:28:43.363-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:28:43.364-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:43.364-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:28:43.371-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:28:43.379-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:43.379-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:28:43.386-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:28:43.386-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:28:43.623-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.263 seconds
+[2025-03-27T14:35:53.659-0500] {processor.py:186} INFO - Started process (PID=1768722) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:35:53.659-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:35:53.660-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:35:53.660-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:35:53.665-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:35:53.674-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:35:53.674-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:35:53.680-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:35:53.680-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:35:53.788-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T14:37:39.670-0500] {processor.py:186} INFO - Started process (PID=1769751) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:37:39.670-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:37:39.671-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:39.671-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:37:39.676-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:37:39.685-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:39.685-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:37:39.744-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:37:39.744-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:37:39.852-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.185 seconds
+[2025-03-27T14:38:54.863-0500] {processor.py:186} INFO - Started process (PID=1770892) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:38:54.864-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:38:54.865-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:38:54.864-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:38:54.869-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:38:54.878-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:38:54.878-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:38:54.883-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:38:54.883-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:38:54.990-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T14:40:22.332-0500] {processor.py:186} INFO - Started process (PID=1771615) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:40:22.332-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:40:22.334-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:22.333-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:40:22.338-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:40:22.347-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:22.347-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:40:22.352-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:40:22.352-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:40:22.459-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T14:41:52.012-0500] {processor.py:186} INFO - Started process (PID=1772917) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:41:52.012-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:41:52.013-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:41:52.013-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:41:52.018-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:41:52.026-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:41:52.026-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:41:52.031-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:41:52.031-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:41:52.138-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T14:42:55.268-0500] {processor.py:186} INFO - Started process (PID=1773543) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:42:55.269-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:42:55.270-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:55.269-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:42:55.274-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:42:55.283-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:55.283-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:42:55.288-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:42:55.288-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:42:55.916-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.651 seconds
+[2025-03-27T14:44:13.891-0500] {processor.py:186} INFO - Started process (PID=1774368) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:44:13.892-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:44:13.893-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:13.892-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:44:13.897-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:44:13.906-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:13.906-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:44:13.911-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:44:13.911-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:44:14.017-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.129 seconds
+[2025-03-27T14:45:17.336-0500] {processor.py:186} INFO - Started process (PID=1775023) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:45:17.336-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:45:17.337-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:17.337-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:45:17.342-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:45:17.351-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:17.350-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:45:17.356-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:45:17.355-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:45:17.462-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.129 seconds
+[2025-03-27T14:46:56.013-0500] {processor.py:186} INFO - Started process (PID=1776009) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:46:56.013-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:46:56.014-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:46:56.014-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:46:56.019-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:46:56.027-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:46:56.027-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:46:56.033-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:46:56.033-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:46:56.192-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.183 seconds
+[2025-03-27T14:48:11.721-0500] {processor.py:186} INFO - Started process (PID=1776667) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:48:11.721-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:48:11.722-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:11.722-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:48:11.727-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:48:11.736-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:11.735-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:48:11.741-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:48:11.741-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:48:11.894-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.176 seconds
+[2025-03-27T14:49:34.713-0500] {processor.py:186} INFO - Started process (PID=1777443) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:49:34.713-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:49:34.714-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:49:34.714-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:49:34.719-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:49:34.728-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:49:34.727-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:49:34.733-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:49:34.733-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:49:34.926-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.216 seconds
+[2025-03-27T14:50:56.665-0500] {processor.py:186} INFO - Started process (PID=1780038) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:50:56.666-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:50:56.667-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:56.666-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:50:56.672-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:50:56.682-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:56.682-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:50:56.687-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:50:56.687-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:50:56.794-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T14:52:01.794-0500] {processor.py:186} INFO - Started process (PID=1783789) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:52:01.794-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:52:01.795-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:01.795-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:52:01.800-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:52:01.809-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:01.809-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:52:01.814-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:52:01.814-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:52:02.560-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.769 seconds
+[2025-03-27T14:53:13.400-0500] {processor.py:186} INFO - Started process (PID=1784478) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:53:13.401-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:53:13.402-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:13.402-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:53:13.407-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:53:13.416-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:13.416-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:53:13.421-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:53:13.421-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:53:13.527-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T14:54:20.987-0500] {processor.py:186} INFO - Started process (PID=1785113) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:54:20.987-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:54:20.988-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:20.988-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:54:20.993-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:54:21.002-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:21.002-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:54:21.007-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:54:21.007-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:54:21.114-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T14:55:22.346-0500] {processor.py:186} INFO - Started process (PID=1785734) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:55:22.346-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:55:22.347-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:22.347-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:55:22.352-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:55:22.361-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:22.361-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:55:22.366-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:55:22.366-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:55:22.514-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.171 seconds
+[2025-03-27T14:56:41.134-0500] {processor.py:186} INFO - Started process (PID=1786605) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:56:41.135-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:56:41.136-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:56:41.135-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:56:41.140-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:56:41.149-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:56:41.149-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:56:41.154-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:56:41.154-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:56:41.262-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T14:57:59.248-0500] {processor.py:186} INFO - Started process (PID=1787417) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:57:59.248-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:57:59.249-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:59.249-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:57:59.254-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:57:59.263-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:59.263-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:57:59.268-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:57:59.268-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:57:59.431-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.186 seconds
+[2025-03-27T14:59:20.162-0500] {processor.py:186} INFO - Started process (PID=1788217) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:59:20.163-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T14:59:20.164-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:59:20.163-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:59:20.168-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T14:59:20.177-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:59:20.177-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T14:59:20.182-0500] {logging_mixin.py:190} INFO - [2025-03-27T14:59:20.182-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T14:59:21.574-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 1.415 seconds
+[2025-03-27T15:00:45.985-0500] {processor.py:186} INFO - Started process (PID=1789296) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:00:45.985-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:00:45.987-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:45.986-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:00:45.992-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:00:46.001-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:46.001-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:00:46.006-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:00:46.006-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:00:46.113-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.132 seconds
+[2025-03-27T15:01:48.895-0500] {processor.py:186} INFO - Started process (PID=1789993) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:01:48.896-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:01:48.897-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:48.896-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:01:48.902-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:01:48.911-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:48.911-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:01:48.916-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:01:48.916-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:01:49.023-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T15:03:00.174-0500] {processor.py:186} INFO - Started process (PID=1790737) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:03:00.174-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:03:00.175-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:00.175-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:03:00.180-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:03:00.188-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:00.188-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:03:00.194-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:03:00.194-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:03:00.298-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.127 seconds
+[2025-03-27T15:04:14.108-0500] {processor.py:186} INFO - Started process (PID=1791371) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:04:14.108-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:04:14.109-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:14.109-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:04:14.115-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:04:14.123-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:14.123-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:04:14.128-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:04:14.128-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:04:14.286-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.182 seconds
+[2025-03-27T15:05:31.504-0500] {processor.py:186} INFO - Started process (PID=1792137) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:05:31.505-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:05:31.505-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:05:31.505-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:05:31.510-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:05:31.519-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:05:31.519-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:05:31.524-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:05:31.524-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:05:31.699-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.198 seconds
+[2025-03-27T15:07:05.511-0500] {processor.py:186} INFO - Started process (PID=1793063) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:07:05.512-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:07:05.513-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:05.513-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:07:05.518-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:07:05.527-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:05.526-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:07:05.532-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:07:05.532-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:07:05.695-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.186 seconds
+[2025-03-27T15:08:12.691-0500] {processor.py:186} INFO - Started process (PID=1793778) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:08:12.691-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:08:12.692-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:12.692-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:08:12.697-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:08:12.706-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:12.706-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:08:12.711-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:08:12.711-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:08:12.817-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.129 seconds
+[2025-03-27T15:09:15.321-0500] {processor.py:186} INFO - Started process (PID=1794388) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:09:15.321-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:09:15.322-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:15.322-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:09:15.327-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:09:15.336-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:15.335-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:09:15.341-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:09:15.341-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:09:15.448-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T15:10:31.755-0500] {processor.py:186} INFO - Started process (PID=1795103) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:10:31.755-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:10:31.756-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:31.756-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:10:31.761-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:10:31.770-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:31.770-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:10:31.775-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:10:31.775-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:10:31.882-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T15:11:37.714-0500] {processor.py:186} INFO - Started process (PID=1796842) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:11:37.714-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:11:37.715-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:11:37.715-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:11:37.720-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:11:37.729-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:11:37.728-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:11:37.734-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:11:37.734-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:11:37.910-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.199 seconds
+[2025-03-27T15:12:49.422-0500] {processor.py:186} INFO - Started process (PID=1798156) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:12:49.422-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:12:49.423-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:49.423-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:12:49.428-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:12:49.437-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:49.437-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:12:49.442-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:12:49.442-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:12:49.637-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.218 seconds
+[2025-03-27T15:14:07.979-0500] {processor.py:186} INFO - Started process (PID=1798879) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:14:07.979-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:14:07.980-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:07.980-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:14:07.985-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:14:07.994-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:07.993-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:14:07.999-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:14:07.999-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:14:08.320-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.344 seconds
+[2025-03-27T15:15:23.495-0500] {processor.py:186} INFO - Started process (PID=1799628) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:15:23.496-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:15:23.497-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:23.497-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:15:23.502-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:15:23.510-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:23.510-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:15:23.515-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:15:23.515-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:15:23.686-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.194 seconds
+[2025-03-27T15:16:48.569-0500] {processor.py:186} INFO - Started process (PID=1800520) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:16:48.570-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:16:48.571-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:16:48.571-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:16:48.576-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:16:48.584-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:16:48.584-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:16:48.590-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:16:48.589-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:16:48.698-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T15:17:56.413-0500] {processor.py:186} INFO - Started process (PID=1801189) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:17:56.414-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:17:56.415-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:56.414-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:17:56.419-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:17:56.428-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:56.428-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:17:56.433-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:17:56.433-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:17:56.541-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T15:19:02.852-0500] {processor.py:186} INFO - Started process (PID=1801789) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:19:02.853-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:19:02.854-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:02.854-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:19:02.859-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:19:02.867-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:02.867-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:19:02.872-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:19:02.872-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:19:02.979-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.129 seconds
+[2025-03-27T15:20:14.428-0500] {processor.py:186} INFO - Started process (PID=1802492) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:20:14.429-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:20:14.430-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:14.430-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:20:14.435-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:20:14.443-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:14.443-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:20:14.448-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:20:14.448-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:20:14.553-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.128 seconds
+[2025-03-27T15:21:21.415-0500] {processor.py:186} INFO - Started process (PID=1807978) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:21:21.415-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:21:21.416-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:21.416-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:21:21.421-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:21:21.430-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:21.430-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:21:21.435-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:21:21.435-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:21:21.542-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.129 seconds
+[2025-03-27T15:22:35.364-0500] {processor.py:186} INFO - Started process (PID=1808747) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:22:35.364-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:22:35.365-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:22:35.365-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:22:35.370-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:22:35.379-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:22:35.379-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:22:35.384-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:22:35.384-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:22:35.492-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T15:23:50.263-0500] {processor.py:186} INFO - Started process (PID=1809558) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:23:50.264-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:23:50.265-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:50.264-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:23:50.269-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:23:50.278-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:50.278-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:23:50.283-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:23:50.283-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:23:50.391-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.130 seconds
+[2025-03-27T15:24:59.999-0500] {processor.py:186} INFO - Started process (PID=1810302) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:25:00.000-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:25:00.001-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:00.000-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:25:00.005-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:25:00.014-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:00.014-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:25:00.019-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:25:00.019-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:25:00.174-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.177 seconds
+[2025-03-27T15:26:38.157-0500] {processor.py:186} INFO - Started process (PID=1811237) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:26:38.158-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:26:38.159-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:26:38.158-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:26:38.163-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:26:38.172-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:26:38.172-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:26:38.177-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:26:38.177-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:26:38.334-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.179 seconds
+[2025-03-27T15:27:51.361-0500] {processor.py:186} INFO - Started process (PID=1812014) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:27:51.362-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:27:51.363-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:51.363-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:27:51.368-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:27:51.377-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:51.376-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:27:51.382-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:27:51.382-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:27:51.543-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.184 seconds
+[2025-03-27T15:29:32.399-0500] {processor.py:186} INFO - Started process (PID=1812854) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:29:32.400-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:29:32.401-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:29:32.400-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:29:32.405-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:29:32.414-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:29:32.414-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:29:32.419-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:29:32.419-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:29:32.627-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.231 seconds
+[2025-03-27T15:31:25.290-0500] {processor.py:186} INFO - Started process (PID=1813878) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:31:25.290-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:31:25.291-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:31:25.291-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:31:25.296-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:31:25.305-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:31:25.305-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:31:25.310-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:31:25.310-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:31:25.995-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.708 seconds
+[2025-03-27T15:32:50.820-0500] {processor.py:186} INFO - Started process (PID=1814819) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:32:50.820-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:32:50.822-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:50.822-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:32:50.827-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:32:50.835-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:50.835-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:32:50.840-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:32:50.840-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:32:50.944-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.127 seconds
+[2025-03-27T15:33:59.883-0500] {processor.py:186} INFO - Started process (PID=1815449) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:33:59.883-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:33:59.884-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:59.884-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:33:59.889-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:33:59.898-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:59.898-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:33:59.903-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:33:59.903-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:34:00.011-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.131 seconds
+[2025-03-27T15:35:03.562-0500] {processor.py:186} INFO - Started process (PID=1816081) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:35:03.562-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:35:03.563-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:03.563-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:35:03.568-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:35:03.577-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:03.577-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:35:03.582-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:35:03.582-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:35:03.687-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.128 seconds
+[2025-03-27T15:36:27.458-0500] {processor.py:186} INFO - Started process (PID=1816847) to work on /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:36:27.459-0500] {processor.py:914} INFO - Processing file /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2025-03-27T15:36:27.460-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:36:27.459-0500] {dagbag.py:588} INFO - Filling up the DagBag from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:36:27.464-0500] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2025-03-27T15:36:27.473-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:36:27.473-0500] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-27T15:36:27.478-0500] {logging_mixin.py:190} INFO - [2025-03-27T15:36:27.478-0500] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2025-03-27T15:36:27.643-0500] {processor.py:208} INFO - Processing /home/udhbhav/miniconda3/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.188 seconds
