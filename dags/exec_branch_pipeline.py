@@ -1,11 +1,14 @@
-from airflow import DAG
-from airflow.operators.python import PythonOperator, BranchPythonOperator
 import pandas as pd
 from random import choice
-
 from datetime import date, datetime, timedelta
+
+from airflow import DAG
+from airflow.operators.python import PythonOperator, BranchPythonOperator
 from airflow.utils.dates import days_ago
+
 from airflow.models import Variable
+from airflow.utils.task_group import TaskGroup
+from airflow.utils.edgemodifier import Label
 
 default_args = {
     'owner': 'cloud.user',
@@ -13,30 +16,30 @@ default_args = {
 
 OUTPUT_PATH = "/home/udhbhav/airflow/output/{0}.csv"
 
-def read_csv_file():
+def read_csv_file(ti):
     df = pd.read_csv('/home/udhbhav/airflow/datasets/insurance.csv')
     print(df)
-    return df.to_json()
+    ti.xcom_push(key='insurance_csv', value=df.to_json())
 
 def remove_null_values(ti):
-    json_data = ti.xcom_pull(task_ids='read')
+    json_data = ti.xcom_pull(key='insurance_csv')
+
     df = pd.read_json(json_data)
     df = df.dropna()
 
     print(df)
-
-    return df.to_json()
+    ti.xcom_push(key = 'clean_csv', value=df.to_json())
 
 def branch():
     transform_action = Variable.get("transform_action", default_var = None)
 
     if transform_action.startswith('filter'):
-        return transform_action
+        return "filtering.{0}".format(transform_action)
     elif transform_action == 'groupby_region_smoker':
-        return 'groupby_region_smoker'
+        return "grouping.{0}".format(transform_action)
 
 def filter_by_southwest(ti):
-    json_data = ti.xcom_pull(task_ids = 'remove_null')
+    json_data = ti.xcom_pull(key='clean_csv')
     df = pd.read_json(json_data)
 
     southwest_df = df[df['region'] == 'southwest']
@@ -44,7 +47,7 @@ def filter_by_southwest(ti):
     southwest_df.to_csv(OUTPUT_PATH.format('southwest'), index=False)
 
 def filter_by_southeast(ti):
-    json_data = ti.xcom_pull(task_ids = 'remove_null')
+    json_data = ti.xcom_pull(key='clean_csv')
     df = pd.read_json(json_data)
 
     southeast_df = df[df['region'] == 'southeast']
@@ -52,7 +55,7 @@ def filter_by_southeast(ti):
     southeast_df.to_csv(OUTPUT_PATH.format('southeast'), index=False)
 
 def groupby_region_smoker(ti):
-    data = ti.xcom_pull(task_ids='remove_null')
+    data = ti.xcom_pull(key='clean_csv')
     df = pd.read_json(data)
 
     # group by smoker and calc avg age, bmi, insurance charges
@@ -81,35 +84,40 @@ with DAG(
     schedule_interval = '@once',
     tags = ['branching', 'python', 'pipeline']
 ) as dag:
+    
+    with TaskGroup('read_preprocess') as read_preprocess:
+        read = PythonOperator(
+            task_id = 'read',
+            python_callable = read_csv_file
+        )
 
-    read = PythonOperator(
-        task_id = 'read',
-        python_callable = read_csv_file
-    )
+        clean = PythonOperator(
+            task_id = 'remove_null',
+            python_callable = remove_null_values
+        )
 
-    clean = PythonOperator(
-        task_id = 'remove_null',
-        python_callable = remove_null_values
-    )
+        read >> clean
 
     branch = BranchPythonOperator(
         task_id = 'branch',
         python_callable = branch
     )
 
-    filter_by_southeast = PythonOperator(
-        task_id = 'filter_by_southeast',
-        python_callable = filter_by_southeast
-    )
+    with TaskGroup("filtering") as filtering:
+        filter_by_southeast = PythonOperator(
+            task_id = 'filter_by_southeast',
+            python_callable = filter_by_southeast
+        )
 
-    filter_by_southwest = PythonOperator(
-        task_id = 'filter_by_southwest',
-        python_callable = filter_by_southwest
-    )
+        filter_by_southwest = PythonOperator(
+            task_id = 'filter_by_southwest',
+            python_callable = filter_by_southwest
+        )
 
-    groupby_region_smoker = PythonOperator(
-        task_id = 'groupby_region_smoker',
-        python_callable = groupby_region_smoker
-    )
+    with TaskGroup("grouping") as grouping:
+        groupby_region_smoker = PythonOperator(
+            task_id = 'groupby_region_smoker',
+            python_callable = groupby_region_smoker
+        )
 
-read >> clean >> branch >> [filter_by_southeast, filter_by_southwest, groupby_region_smoker]
+    read_preprocess >> Label('preprocessed_data') >> branch >> Label('branch on condition variable') >> [filtering, grouping]
